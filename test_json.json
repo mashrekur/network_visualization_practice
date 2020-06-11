@@ -1,0 +1,11 @@
+{"nodes":[{"name":"ML","group":1},
+          {"name":"NLP","group":2},
+          {"name":"DL","group":2},
+          {"name":"AI","group":3}],
+ "links":[{"source": "ML", "target": "NLP", "value": 4},
+    {"source": "ML", "target": "DL", "value": 8},
+    {"source": "ML", "target": "AI", "value": 10},
+    {"source": "NLP", "target": "DL", "value": 2},
+    {"source": "NLP", "target": "AI", "value": 5},
+    {"source": "DL", "target": "AL=I", "value": 3}
+    ]}
