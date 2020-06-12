@@ -12,4 +12,5 @@ You should see a message like this: "Serving HTTP on 0.0.0.0 port 8000 (http://0
 
 # # Understanding json files
 -Nodes: This data is used to create an object and give the node a name. The group represents the color.
+
 -Links: The source is used to identify the index position inside of the nodes list. For example “Napoleon” is in index position 1; same holds true for target. The value is the number of times the connection occurs.
