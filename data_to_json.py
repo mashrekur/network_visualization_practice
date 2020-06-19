@@ -123,7 +123,7 @@ def jensen_shannon_distance(paper1,paper2):
     D1=calc_KL_divergence(paper1,M)
     D2=calc_KL_divergence(paper2,M)
     JSDiv = 0.5*D1+0.5*D2
-    JSD = int(round((np.sqrt(JSDiv)*1000)))
+    JSD = np.sqrt(JSDiv)
     return JSD
 
 
@@ -148,8 +148,10 @@ for p1, paper1 in enumerate(corpus_df["Title"]):
         if p1 == p2:
             dist = 0
         else:
-            dist = 1/jensen_shannon_distance(topic_distributions[p1], topic_distributions[p2])
-        link = {"source": paper1, "target": paper2, "value": dist}
+            #round to 2 decimal places and multiply by 10
+            dist = int(round(1/jensen_shannon_distance(topic_distributions[p1], topic_distributions[p2]), 2)*10)
+        link = {"source": p1, "target": p2, "value": dist}
+        print(link)
         link_list.append(link)
 
 

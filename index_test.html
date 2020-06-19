@@ -14,12 +14,12 @@
 <link href="style.css" rel="stylesheet" type="text/css">
 
 <script>
-var width  = 800;
-var height = 800;
+var width  = 1800;
+var height = 1800;
 var margin = 20;
 var pad = margin / 2;
 
-var color = d3.scale.category20();
+var color = d3.interpolateRdBu();
 
 // Generates a tooltip for a SVG circle element based on its ID
 function addTooltip(circle) {
@@ -185,7 +185,7 @@ function drawLinks(links) {
 
 <script>
 /*d3.json("ong-prod-cb-im-wordpress.db.json", drawGraph);*/
-d3.json("les_miserables.json", drawGraph);
+d3.json("hydro_mind.json", drawGraph);
 /*d3.json("network.json", drawGraph);*/
 </script>
 </body>
