@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import numpy as np
@@ -11,13 +11,13 @@ from gensim.models import LdaModel
 import json
 
 
-# In[2]:
+# In[ ]:
 
 
 nTopics = 25
 
 
-# In[3]:
+# In[ ]:
 
 
 # Load model
@@ -34,13 +34,13 @@ with open('data/raw_corpus.pkl', 'rb') as f:
     corpus_df = pkl.load(f)
 
 
-# In[4]:
+# In[ ]:
 
 
 topic_distributions.shape
 
 
-# In[5]:
+# In[ ]:
 
 
 # Define topic names
@@ -73,7 +73,7 @@ topic_names = [
 ]
 
 
-# In[6]:
+# In[ ]:
 
 
 # Define colors to associate with each topic
@@ -112,7 +112,7 @@ for i, color in enumerate(custom_colors.values()):
     colorlist[i] = (colorlist[i][0] / 256, colorlist[i][1] / 256, colorlist[i][2] / 256)
 
 
-# In[7]:
+# In[ ]:
 
 
 #calculate JSD for all pairs of papers
@@ -123,11 +123,17 @@ def jensen_shannon_distance(paper1,paper2):
     D1=calc_KL_divergence(paper1,M)
     D2=calc_KL_divergence(paper2,M)
     JSDiv = 0.5*D1+0.5*D2
-    JSD = np.sqrt(JSDiv)
+    JSD = int(round((np.sqrt(JSDiv)*1000)))
     return JSD
 
 
-# In[9]:
+# In[ ]:
+
+
+# jensen_shannon_distance(0.12, 0.74)
+
+
+# In[ ]:
 
 
 #initiate individual lists for nodes and links
@@ -147,7 +153,7 @@ for p1, paper1 in enumerate(corpus_df["Title"]):
         link_list.append(link)
 
 
-# In[17]:
+# In[ ]:
 
 
 #initiate json file
@@ -169,19 +175,19 @@ class NpEncoder(json.JSONEncoder):
 json_dump = json.dumps(json_prep, indent=1, sort_keys=True, cls=NpEncoder)
 
 
-# In[22]:
+# In[ ]:
 
 
 #pd.DataFrame(json_prep['nodes']).head()
 
 
-# In[23]:
+# In[ ]:
 
 
 # pd.DataFrame(json_prep['links']).head()
 
 
-# In[24]:
+# In[ ]:
 
 
 #save output
