@@ -37,7 +37,16 @@ with open('data/raw_corpus.pkl', 'rb') as f:
 # In[ ]:
 
 
-topic_distributions.shape
+#convert all nans to zeros and all zeros to a very small number
+topic_distributions = np.nan_to_num(topic_distributions)
+topic_distributions = np.where(topic_distributions == 0, 0.000001, topic_distributions)
+# topic_distributions
+
+
+# In[ ]:
+
+
+np.where(topic_distributions == 0)[0]
 
 
 # In[ ]:
@@ -116,6 +125,7 @@ for i, color in enumerate(custom_colors.values()):
 
 
 #calculate JSD for all pairs of papers
+#the max force values (dist) are capped to 1000 later on
 def calc_KL_divergence(paper1,paper2):
     return -np.nansum(paper1 * np.log(paper2/paper1))
 def jensen_shannon_distance(paper1,paper2):
@@ -130,7 +140,7 @@ def jensen_shannon_distance(paper1,paper2):
 # In[ ]:
 
 
-# jensen_shannon_distance(0.12, 0.74)
+jensen_shannon_distance(0.00001, 0.00001)
 
 
 # In[ ]:
@@ -143,16 +153,38 @@ link_list = []
 
 for p1, paper1 in enumerate(corpus_df["Title"]):
     grp = {"group" : np.argmax(topic_distributions[p1]), "name": paper1}
+#     print(grp)
     node_list.append(grp)
     for p2, paper2 in enumerate(corpus_df["Title"]):
         if p1 == p2:
             dist = 0
         else:
             #round to 2 decimal places and multiply by 10
-            dist = int(round(1/jensen_shannon_distance(topic_distributions[p1], topic_distributions[p2]), 2)*10)
-        link = {"source": p1, "target": p2, "value": dist}
-        print(link)
-        link_list.append(link)
+            JSD = jensen_shannon_distance(topic_distributions[p1], topic_distributions[p2])
+            if JSD == 0:
+                dist = 0
+                link = {"source": p1, "target": p2, "value": dist}
+                continue
+            dist = int(round(1/JSD, 2)*10)
+            
+            #capping max values to 1000
+            if dist >= 1000:
+                dist = 1000
+            else:
+                dist = dist
+            link = {"source": p1, "target": p2, "value": dist}
+#             print(link)
+            link_list.append(link)
+
+
+# In[ ]:
+
+
+#save the lists
+# with open("node_list.txt", "wb") as fp:
+#     pkl.dump(node_list, fp)
+# with open("link_list.txt", "wb") as fp:
+#     pkl.dump(link_list, fp)
 
 
 # In[ ]:
@@ -193,14 +225,8 @@ json_dump = json.dumps(json_prep, indent=1, sort_keys=True, cls=NpEncoder)
 
 
 #save output
-filename_out = 'hydro_mind.json'
+filename_out = 'hiddenstories.json'
 json_out = open(filename_out,'w')
 json_out.write(json_dump)
 json_out.close()
-
-
-# In[ ]:
-
-
-
 
