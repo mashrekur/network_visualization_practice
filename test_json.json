@@ -1,52 +1,48 @@
-{
+{   
 "links": [
 {
-"source": "ML",
-"target": "NLP",
-"value": 40
+"source": 1,
+"target": 0,
+"value": 10.2
 },
 {
-"source": "ML",
-"target": "DL", 
-"value": 50
-},
+    "source": 0,
+    "target": 1,
+    "value": 2.1
+    },
+    {
+        "source": 1,
+        "target": 2,
+        "value": 10
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "value": 1.4
+            },
+            {
+                "source": 2,
+                "target": 0,
+                "value": 3.0
+                },
 {
-"source": "ML", 
-"target": "AI", 
-"value": 10
-},
-{
-"source": "NLP", 
-"target": "DL", 
-"value": 20
-},
-{
-"source": "NLP", 
-"target": "AI", 
-"value": 5
-},
-{
-"source": "DL", 
-"target": "AI", 
-"value": 300
+"source": 0,
+"target": 2,
+"value": 15.2
 }
 ],
 "nodes": [
 {
-"group":1,
-"name":"ML"
+"group": 1,
+"name": "Grey's Paper"
 },
 {
-"group":2,
-"name":"NLP"
+"group": 0,
+"name": "Mash's Paper"
 },
 {
-"group":3,
-"name":"DL"
-},
-{
-"group":3,
-"name":"AI"
+"group": 2,
+"name": "Jonathan's Paper"
 }
 ]
- }
+}
