@@ -1,16 +1,16 @@
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
+    font-weight: 50;
 }
 
 b {
-    font-weight: 900;
+    font-weight: 50;
 }
 
 .outline {
     fill: none;
     stroke: #888888;
-    stroke-width: 1px;
+    stroke-width: 0.01px;
 }
 
 #tooltip {
@@ -24,18 +24,18 @@ b {
 
 .node {
     stroke: #ffffff;
-    stroke-weight: 1px;
+    stroke-weight: 0.01px;
 }
 
 .link {
     fill: none;
     stroke: #888888;
-    stroke-weight: 1px;
-    stroke-opacity: 0.5;
+    stroke-weight: 0.01px;
+    stroke-opacity: 0.0;
 }
 
 .highlight {
     stroke: red;
-    stroke-weight: 4px;
+    stroke-weight: 0.01px;
     stroke-opacity: 1.0;
 }
