@@ -221,11 +221,6 @@
    "value": 3.4
   },
   {
-   "source": 1,
-   "target": 589,
-   "value": 2.09
-  },
-  {
    "source": 2,
    "target": 124,
    "value": 2.0
@@ -681,11 +676,6 @@
    "value": 3.15
   },
   {
-   "source": 8,
-   "target": 572,
-   "value": 2.2
-  },
-  {
    "source": 9,
    "target": 30,
    "value": 2.31
@@ -839,11 +829,6 @@
    "source": 9,
    "target": 542,
    "value": 2.53
-  },
-  {
-   "source": 9,
-   "target": 566,
-   "value": 2.15
   },
   {
    "source": 10,
@@ -1019,11 +1004,6 @@
    "source": 11,
    "target": 555,
    "value": 2.06
-  },
-  {
-   "source": 11,
-   "target": 571,
-   "value": 2.03
   },
   {
    "source": 12,
@@ -1246,11 +1226,6 @@
    "value": 2.1
   },
   {
-   "source": 12,
-   "target": 573,
-   "value": 2.04
-  },
-  {
    "source": 13,
    "target": 3,
    "value": 2.38
@@ -1399,16 +1374,6 @@
    "source": 13,
    "target": 547,
    "value": 2.34
-  },
-  {
-   "source": 13,
-   "target": 561,
-   "value": 2.15
-  },
-  {
-   "source": 13,
-   "target": 571,
-   "value": 2.04
   },
   {
    "source": 14,
@@ -1564,26 +1529,6 @@
    "source": 14,
    "target": 491,
    "value": 2.08
-  },
-  {
-   "source": 14,
-   "target": 558,
-   "value": 2.5
-  },
-  {
-   "source": 14,
-   "target": 559,
-   "value": 2.34
-  },
-  {
-   "source": 14,
-   "target": 562,
-   "value": 2.05
-  },
-  {
-   "source": 14,
-   "target": 568,
-   "value": 2.86
   },
   {
    "source": 15,
@@ -1756,11 +1701,6 @@
    "value": 2.02
   },
   {
-   "source": 15,
-   "target": 565,
-   "value": 2.24
-  },
-  {
    "source": 16,
    "target": 54,
    "value": 2.18
@@ -1839,11 +1779,6 @@
    "source": 16,
    "target": 547,
    "value": 2.31
-  },
-  {
-   "source": 16,
-   "target": 557,
-   "value": 2.44
   },
   {
    "source": 17,
@@ -2294,11 +2229,6 @@
    "source": 18,
    "target": 546,
    "value": 2.01
-  },
-  {
-   "source": 18,
-   "target": 571,
-   "value": 2.18
   },
   {
    "source": 19,
@@ -2794,21 +2724,6 @@
    "source": 21,
    "target": 531,
    "value": 2.0
-  },
-  {
-   "source": 21,
-   "target": 551,
-   "value": 2.04
-  },
-  {
-   "source": 21,
-   "target": 552,
-   "value": 2.23
-  },
-  {
-   "source": 21,
-   "target": 565,
-   "value": 2.25
   },
   {
    "source": 22,
@@ -3566,11 +3481,6 @@
    "value": 2.05
   },
   {
-   "source": 27,
-   "target": 545,
-   "value": 3.16
-  },
-  {
    "source": 28,
    "target": 17,
    "value": 2.02
@@ -3699,16 +3609,6 @@
    "source": 28,
    "target": 520,
    "value": 2.15
-  },
-  {
-   "source": 28,
-   "target": 544,
-   "value": 2.1
-  },
-  {
-   "source": 28,
-   "target": 561,
-   "value": 2.23
   },
   {
    "source": 29,
@@ -3896,11 +3796,6 @@
    "value": 2.11
   },
   {
-   "source": 29,
-   "target": 546,
-   "value": 2.57
-  },
-  {
    "source": 30,
    "target": 9,
    "value": 2.31
@@ -4024,11 +3919,6 @@
    "source": 30,
    "target": 538,
    "value": 2.03
-  },
-  {
-   "source": 30,
-   "target": 542,
-   "value": 2.43
   },
   {
    "source": 31,
@@ -4169,11 +4059,6 @@
    "source": 33,
    "target": 519,
    "value": 2.13
-  },
-  {
-   "source": 33,
-   "target": 539,
-   "value": 3.11
   },
   {
    "source": 34,
@@ -4561,11 +4446,6 @@
    "value": 2.07
   },
   {
-   "source": 35,
-   "target": 547,
-   "value": 2.58
-  },
-  {
    "source": 36,
    "target": 33,
    "value": 2.07
@@ -4614,11 +4494,6 @@
    "source": 36,
    "target": 493,
    "value": 2.1
-  },
-  {
-   "source": 36,
-   "target": 539,
-   "value": 2.63
   },
   {
    "source": 37,
@@ -5216,26 +5091,6 @@
    "value": 2.83
   },
   {
-   "source": 41,
-   "target": 537,
-   "value": 2.09
-  },
-  {
-   "source": 41,
-   "target": 541,
-   "value": 2.15
-  },
-  {
-   "source": 41,
-   "target": 545,
-   "value": 2.45
-  },
-  {
-   "source": 41,
-   "target": 548,
-   "value": 2.24
-  },
-  {
    "source": 42,
    "target": 9,
    "value": 2.59
@@ -5366,26 +5221,6 @@
    "value": 2.61
   },
   {
-   "source": 42,
-   "target": 532,
-   "value": 2.3
-  },
-  {
-   "source": 42,
-   "target": 535,
-   "value": 2.5
-  },
-  {
-   "source": 42,
-   "target": 538,
-   "value": 2.57
-  },
-  {
-   "source": 42,
-   "target": 542,
-   "value": 2.63
-  },
-  {
    "source": 43,
    "target": 129,
    "value": 2.79
@@ -5454,16 +5289,6 @@
    "source": 44,
    "target": 366,
    "value": 2.07
-  },
-  {
-   "source": 44,
-   "target": 530,
-   "value": 2.23
-  },
-  {
-   "source": 44,
-   "target": 533,
-   "value": 2.61
   },
   {
    "source": 45,
@@ -5741,16 +5566,6 @@
    "value": 2.3
   },
   {
-   "source": 47,
-   "target": 527,
-   "value": 2.1
-  },
-  {
-   "source": 47,
-   "target": 537,
-   "value": 2.59
-  },
-  {
    "source": 48,
    "target": 206,
    "value": 2.21
@@ -5949,11 +5764,6 @@
    "source": 49,
    "target": 484,
    "value": 2.44
-  },
-  {
-   "source": 49,
-   "target": 528,
-   "value": 2.97
   },
   {
    "source": 50,
@@ -6184,16 +5994,6 @@
    "source": 50,
    "target": 520,
    "value": 2.42
-  },
-  {
-   "source": 50,
-   "target": 523,
-   "value": 2.0
-  },
-  {
-   "source": 50,
-   "target": 528,
-   "value": 2.26
   },
   {
    "source": 51,
@@ -6476,11 +6276,6 @@
    "value": 2.21
   },
   {
-   "source": 53,
-   "target": 520,
-   "value": 2.1
-  },
-  {
    "source": 54,
    "target": 16,
    "value": 2.18
@@ -6619,16 +6414,6 @@
    "source": 54,
    "target": 507,
    "value": 2.49
-  },
-  {
-   "source": 54,
-   "target": 522,
-   "value": 2.69
-  },
-  {
-   "source": 54,
-   "target": 523,
-   "value": 2.02
   },
   {
    "source": 55,
@@ -6799,16 +6584,6 @@
    "source": 55,
    "target": 507,
    "value": 2.26
-  },
-  {
-   "source": 55,
-   "target": 522,
-   "value": 2.3
-  },
-  {
-   "source": 55,
-   "target": 523,
-   "value": 2.05
   },
   {
    "source": 56,
@@ -7024,11 +6799,6 @@
    "source": 58,
    "target": 510,
    "value": 2.83
-  },
-  {
-   "source": 58,
-   "target": 532,
-   "value": 2.42
   },
   {
    "source": 59,
@@ -7386,16 +7156,6 @@
    "value": 2.46
   },
   {
-   "source": 60,
-   "target": 520,
-   "value": 2.31
-  },
-  {
-   "source": 60,
-   "target": 528,
-   "value": 2.25
-  },
-  {
    "source": 61,
    "target": 10,
    "value": 2.36
@@ -7486,19 +7246,9 @@
    "value": 2.06
   },
   {
-   "source": 61,
-   "target": 517,
-   "value": 2.06
-  },
-  {
    "source": 62,
    "target": 459,
    "value": 2.1
-  },
-  {
-   "source": 62,
-   "target": 526,
-   "value": 2.0
   },
   {
    "source": 63,
@@ -7639,11 +7389,6 @@
    "source": 64,
    "target": 489,
    "value": 2.12
-  },
-  {
-   "source": 64,
-   "target": 510,
-   "value": 2.1
   },
   {
    "source": 65,
@@ -8396,11 +8141,6 @@
    "value": 2.8
   },
   {
-   "source": 74,
-   "target": 510,
-   "value": 2.84
-  },
-  {
    "source": 75,
    "target": 3,
    "value": 2.23
@@ -8591,11 +8331,6 @@
    "value": 2.49
   },
   {
-   "source": 75,
-   "target": 508,
-   "value": 2.13
-  },
-  {
    "source": 76,
    "target": 18,
    "value": 2.15
@@ -8729,11 +8464,6 @@
    "source": 76,
    "target": 472,
    "value": 2.26
-  },
-  {
-   "source": 76,
-   "target": 512,
-   "value": 2.07
   },
   {
    "source": 77,
@@ -8896,11 +8626,6 @@
    "value": 2.09
   },
   {
-   "source": 78,
-   "target": 505,
-   "value": 2.5
-  },
-  {
    "source": 79,
    "target": 36,
    "value": 2.17
@@ -9051,16 +8776,6 @@
    "value": 2.45
   },
   {
-   "source": 80,
-   "target": 491,
-   "value": 2.61
-  },
-  {
-   "source": 80,
-   "target": 507,
-   "value": 2.0
-  },
-  {
    "source": 81,
    "target": 88,
    "value": 2.01
@@ -9079,11 +8794,6 @@
    "source": 81,
    "target": 421,
    "value": 2.26
-  },
-  {
-   "source": 81,
-   "target": 505,
-   "value": 2.0
   },
   {
    "source": 82,
@@ -9271,21 +8981,6 @@
    "value": 2.5
   },
   {
-   "source": 82,
-   "target": 499,
-   "value": 2.65
-  },
-  {
-   "source": 82,
-   "target": 505,
-   "value": 2.12
-  },
-  {
-   "source": 82,
-   "target": 507,
-   "value": 2.38
-  },
-  {
    "source": 83,
    "target": 10,
    "value": 2.33
@@ -9329,16 +9024,6 @@
    "source": 83,
    "target": 471,
    "value": 2.02
-  },
-  {
-   "source": 83,
-   "target": 497,
-   "value": 2.11
-  },
-  {
-   "source": 83,
-   "target": 500,
-   "value": 2.07
   },
   {
    "source": 84,
@@ -9516,16 +9201,6 @@
    "value": 2.47
   },
   {
-   "source": 84,
-   "target": 492,
-   "value": 2.59
-  },
-  {
-   "source": 84,
-   "target": 501,
-   "value": 2.0
-  },
-  {
    "source": 85,
    "target": 25,
    "value": 2.22
@@ -9549,11 +9224,6 @@
    "source": 85,
    "target": 388,
    "value": 2.29
-  },
-  {
-   "source": 85,
-   "target": 486,
-   "value": 2.1
   },
   {
    "source": 86,
@@ -9689,16 +9359,6 @@
    "source": 86,
    "target": 483,
    "value": 2.72
-  },
-  {
-   "source": 86,
-   "target": 492,
-   "value": 2.18
-  },
-  {
-   "source": 86,
-   "target": 502,
-   "value": 2.07
   },
   {
    "source": 87,
@@ -9934,16 +9594,6 @@
    "source": 89,
    "target": 477,
    "value": 2.26
-  },
-  {
-   "source": 89,
-   "target": 484,
-   "value": 2.31
-  },
-  {
-   "source": 89,
-   "target": 501,
-   "value": 2.43
   },
   {
    "source": 90,
@@ -10186,11 +9836,6 @@
    "value": 2.06
   },
   {
-   "source": 91,
-   "target": 481,
-   "value": 2.17
-  },
-  {
    "source": 92,
    "target": 5,
    "value": 2.09
@@ -10306,16 +9951,6 @@
    "value": 2.02
   },
   {
-   "source": 92,
-   "target": 484,
-   "value": 2.06
-  },
-  {
-   "source": 92,
-   "target": 488,
-   "value": 2.44
-  },
-  {
    "source": 93,
    "target": 18,
    "value": 2.23
@@ -10404,11 +10039,6 @@
    "source": 93,
    "target": 456,
    "value": 2.08
-  },
-  {
-   "source": 93,
-   "target": 483,
-   "value": 2.51
   },
   {
    "source": 94,
@@ -10586,11 +10216,6 @@
    "value": 2.45
   },
   {
-   "source": 94,
-   "target": 484,
-   "value": 2.22
-  },
-  {
    "source": 95,
    "target": 307,
    "value": 2.11
@@ -10604,11 +10229,6 @@
    "source": 95,
    "target": 379,
    "value": 2.13
-  },
-  {
-   "source": 95,
-   "target": 490,
-   "value": 2.27
   },
   {
    "source": 96,
@@ -10639,11 +10259,6 @@
    "source": 96,
    "target": 458,
    "value": 2.83
-  },
-  {
-   "source": 96,
-   "target": 493,
-   "value": 2.36
   },
   {
    "source": 97,
@@ -10709,16 +10324,6 @@
    "source": 97,
    "target": 456,
    "value": 2.23
-  },
-  {
-   "source": 97,
-   "target": 474,
-   "value": 2.06
-  },
-  {
-   "source": 97,
-   "target": 483,
-   "value": 2.33
   },
   {
    "source": 98,
@@ -11411,16 +11016,6 @@
    "value": 2.07
   },
   {
-   "source": 104,
-   "target": 470,
-   "value": 2.0
-  },
-  {
-   "source": 104,
-   "target": 477,
-   "value": 2.22
-  },
-  {
    "source": 105,
    "target": 29,
    "value": 2.71
@@ -11544,16 +11139,6 @@
    "source": 105,
    "target": 454,
    "value": 2.0
-  },
-  {
-   "source": 105,
-   "target": 468,
-   "value": 2.13
-  },
-  {
-   "source": 105,
-   "target": 470,
-   "value": 2.02
   },
   {
    "source": 106,
@@ -11694,11 +11279,6 @@
    "source": 107,
    "target": 439,
    "value": 2.44
-  },
-  {
-   "source": 107,
-   "target": 469,
-   "value": 2.05
   },
   {
    "source": 108,
@@ -11931,21 +11511,6 @@
    "value": 2.43
   },
   {
-   "source": 112,
-   "target": 460,
-   "value": 2.36
-  },
-  {
-   "source": 112,
-   "target": 472,
-   "value": 2.1
-  },
-  {
-   "source": 112,
-   "target": 474,
-   "value": 2.16
-  },
-  {
    "source": 113,
    "target": 38,
    "value": 2.01
@@ -12064,11 +11629,6 @@
    "source": 114,
    "target": 452,
    "value": 2.4
-  },
-  {
-   "source": 114,
-   "target": 471,
-   "value": 2.27
   },
   {
    "source": 115,
@@ -12321,16 +11881,6 @@
    "value": 2.22
   },
   {
-   "source": 118,
-   "target": 456,
-   "value": 2.17
-  },
-  {
-   "source": 118,
-   "target": 462,
-   "value": 2.37
-  },
-  {
    "source": 119,
    "target": 12,
    "value": 2.71
@@ -12456,11 +12006,6 @@
    "value": 2.92
   },
   {
-   "source": 119,
-   "target": 456,
-   "value": 2.29
-  },
-  {
    "source": 120,
    "target": 6,
    "value": 2.57
@@ -12509,11 +12054,6 @@
    "source": 120,
    "target": 369,
    "value": 2.12
-  },
-  {
-   "source": 120,
-   "target": 462,
-   "value": 2.11
   },
   {
    "source": 121,
@@ -13001,16 +12541,6 @@
    "value": 2.1
   },
   {
-   "source": 125,
-   "target": 448,
-   "value": 2.15
-  },
-  {
-   "source": 125,
-   "target": 465,
-   "value": 2.0
-  },
-  {
    "source": 126,
    "target": 33,
    "value": 2.12
@@ -13219,11 +12749,6 @@
    "source": 128,
    "target": 394,
    "value": 2.24
-  },
-  {
-   "source": 128,
-   "target": 462,
-   "value": 2.38
   },
   {
    "source": 129,
@@ -13526,11 +13051,6 @@
    "value": 2.74
   },
   {
-   "source": 132,
-   "target": 447,
-   "value": 2.19
-  },
-  {
    "source": 133,
    "target": 23,
    "value": 2.29
@@ -13568,11 +13088,6 @@
   {
    "source": 133,
    "target": 342,
-   "value": 2.27
-  },
-  {
-   "source": 133,
-   "target": 453,
    "value": 2.27
   },
   {
@@ -13756,11 +13271,6 @@
    "value": 2.23
   },
   {
-   "source": 135,
-   "target": 439,
-   "value": 2.23
-  },
-  {
    "source": 136,
    "target": 9,
    "value": 2.38
@@ -13851,11 +13361,6 @@
    "value": 2.12
   },
   {
-   "source": 136,
-   "target": 452,
-   "value": 2.19
-  },
-  {
    "source": 137,
    "target": 171,
    "value": 2.76
@@ -13864,11 +13369,6 @@
    "source": 137,
    "target": 292,
    "value": 2.01
-  },
-  {
-   "source": 137,
-   "target": 435,
-   "value": 2.21
   },
   {
    "source": 138,
@@ -13946,16 +13446,6 @@
    "value": 2.01
   },
   {
-   "source": 138,
-   "target": 439,
-   "value": 2.06
-  },
-  {
-   "source": 138,
-   "target": 446,
-   "value": 2.26
-  },
-  {
    "source": 139,
    "target": 57,
    "value": 2.0
@@ -14019,11 +13509,6 @@
    "source": 139,
    "target": 409,
    "value": 2.87
-  },
-  {
-   "source": 139,
-   "target": 436,
-   "value": 2.14
   },
   {
    "source": 140,
@@ -14146,11 +13631,6 @@
    "value": 2.33
   },
   {
-   "source": 142,
-   "target": 430,
-   "value": 2.6
-  },
-  {
    "source": 143,
    "target": 11,
    "value": 2.01
@@ -14259,11 +13739,6 @@
    "source": 143,
    "target": 397,
    "value": 2.62
-  },
-  {
-   "source": 143,
-   "target": 436,
-   "value": 2.03
   },
   {
    "source": 144,
@@ -14384,16 +13859,6 @@
    "source": 144,
    "target": 411,
    "value": 2.1
-  },
-  {
-   "source": 144,
-   "target": 432,
-   "value": 2.05
-  },
-  {
-   "source": 144,
-   "target": 436,
-   "value": 2.19
   },
   {
    "source": 145,
@@ -14519,11 +13984,6 @@
    "source": 145,
    "target": 399,
    "value": 3.1
-  },
-  {
-   "source": 145,
-   "target": 435,
-   "value": 2.24
   },
   {
    "source": 146,
@@ -14694,11 +14154,6 @@
    "source": 147,
    "target": 415,
    "value": 2.19
-  },
-  {
-   "source": 147,
-   "target": 438,
-   "value": 2.05
   },
   {
    "source": 148,
@@ -14906,11 +14361,6 @@
    "value": 2.3
   },
   {
-   "source": 149,
-   "target": 434,
-   "value": 2.05
-  },
-  {
    "source": 150,
    "target": 8,
    "value": 2.39
@@ -15111,11 +14561,6 @@
    "value": 2.11
   },
   {
-   "source": 153,
-   "target": 424,
-   "value": 2.84
-  },
-  {
    "source": 154,
    "target": 82,
    "value": 2.12
@@ -15176,11 +14621,6 @@
    "value": 2.48
   },
   {
-   "source": 154,
-   "target": 430,
-   "value": 2.18
-  },
-  {
    "source": 155,
    "target": 156,
    "value": 2.41
@@ -15214,11 +14654,6 @@
    "source": 155,
    "target": 389,
    "value": 2.79
-  },
-  {
-   "source": 155,
-   "target": 435,
-   "value": 2.52
   },
   {
    "source": 156,
@@ -15376,16 +14811,6 @@
    "value": 2.14
   },
   {
-   "source": 158,
-   "target": 424,
-   "value": 2.78
-  },
-  {
-   "source": 158,
-   "target": 432,
-   "value": 2.14
-  },
-  {
    "source": 159,
    "target": 15,
    "value": 2.3
@@ -15481,36 +14906,6 @@
    "value": 3.44
   },
   {
-   "source": 159,
-   "target": 412,
-   "value": 2.76
-  },
-  {
-   "source": 159,
-   "target": 414,
-   "value": 2.76
-  },
-  {
-   "source": 159,
-   "target": 415,
-   "value": 2.92
-  },
-  {
-   "source": 159,
-   "target": 416,
-   "value": 2.55
-  },
-  {
-   "source": 159,
-   "target": 417,
-   "value": 2.38
-  },
-  {
-   "source": 159,
-   "target": 424,
-   "value": 3.26
-  },
-  {
    "source": 160,
    "target": 125,
    "value": 2.02
@@ -15554,16 +14949,6 @@
    "source": 160,
    "target": 393,
    "value": 2.14
-  },
-  {
-   "source": 160,
-   "target": 414,
-   "value": 2.03
-  },
-  {
-   "source": 160,
-   "target": 415,
-   "value": 2.05
   },
   {
    "source": 161,
@@ -15699,26 +15084,6 @@
    "source": 162,
    "target": 408,
    "value": 2.27
-  },
-  {
-   "source": 162,
-   "target": 414,
-   "value": 2.18
-  },
-  {
-   "source": 162,
-   "target": 416,
-   "value": 2.85
-  },
-  {
-   "source": 162,
-   "target": 417,
-   "value": 2.54
-  },
-  {
-   "source": 162,
-   "target": 424,
-   "value": 2.22
   },
   {
    "source": 163,
@@ -15951,16 +15316,6 @@
    "value": 2.05
   },
   {
-   "source": 164,
-   "target": 420,
-   "value": 2.34
-  },
-  {
-   "source": 164,
-   "target": 425,
-   "value": 3.78
-  },
-  {
    "source": 165,
    "target": 19,
    "value": 2.07
@@ -16109,16 +15464,6 @@
    "source": 165,
    "target": 405,
    "value": 2.14
-  },
-  {
-   "source": 165,
-   "target": 406,
-   "value": 2.01
-  },
-  {
-   "source": 165,
-   "target": 411,
-   "value": 2.08
   },
   {
    "source": 166,
@@ -16356,11 +15701,6 @@
    "value": 2.63
   },
   {
-   "source": 168,
-   "target": 404,
-   "value": 2.06
-  },
-  {
    "source": 169,
    "target": 15,
    "value": 2.18
@@ -16424,31 +15764,6 @@
    "source": 169,
    "target": 393,
    "value": 2.49
-  },
-  {
-   "source": 169,
-   "target": 412,
-   "value": 2.33
-  },
-  {
-   "source": 169,
-   "target": 414,
-   "value": 2.31
-  },
-  {
-   "source": 169,
-   "target": 415,
-   "value": 2.29
-  },
-  {
-   "source": 169,
-   "target": 416,
-   "value": 3.02
-  },
-  {
-   "source": 169,
-   "target": 417,
-   "value": 2.29
   },
   {
    "source": 170,
@@ -16524,11 +15839,6 @@
    "source": 170,
    "target": 378,
    "value": 2.28
-  },
-  {
-   "source": 170,
-   "target": 413,
-   "value": 2.32
   },
   {
    "source": 171,
@@ -16646,16 +15956,6 @@
    "value": 2.15
   },
   {
-   "source": 173,
-   "target": 399,
-   "value": 2.36
-  },
-  {
-   "source": 173,
-   "target": 415,
-   "value": 2.11
-  },
-  {
    "source": 174,
    "target": 147,
    "value": 2.02
@@ -16679,11 +15979,6 @@
    "source": 174,
    "target": 359,
    "value": 2.07
-  },
-  {
-   "source": 174,
-   "target": 400,
-   "value": 2.01
   },
   {
    "source": 175,
@@ -16854,11 +16149,6 @@
    "source": 176,
    "target": 353,
    "value": 2.09
-  },
-  {
-   "source": 176,
-   "target": 397,
-   "value": 2.1
   },
   {
    "source": 177,
@@ -17076,21 +16366,6 @@
    "value": 2.49
   },
   {
-   "source": 179,
-   "target": 395,
-   "value": 2.01
-  },
-  {
-   "source": 179,
-   "target": 397,
-   "value": 3.14
-  },
-  {
-   "source": 179,
-   "target": 399,
-   "value": 2.35
-  },
-  {
    "source": 180,
    "target": 12,
    "value": 2.01
@@ -17249,11 +16524,6 @@
    "source": 180,
    "target": 346,
    "value": 2.03
-  },
-  {
-   "source": 180,
-   "target": 392,
-   "value": 2.02
   },
   {
    "source": 181,
@@ -17454,11 +16724,6 @@
    "source": 185,
    "target": 378,
    "value": 2.39
-  },
-  {
-   "source": 185,
-   "target": 386,
-   "value": 2.66
   },
   {
    "source": 186,
@@ -17671,11 +16936,6 @@
    "value": 2.25
   },
   {
-   "source": 187,
-   "target": 392,
-   "value": 2.54
-  },
-  {
    "source": 188,
    "target": 15,
    "value": 2.31
@@ -17719,11 +16979,6 @@
    "source": 188,
    "target": 354,
    "value": 2.06
-  },
-  {
-   "source": 188,
-   "target": 393,
-   "value": 2.12
   },
   {
    "source": 189,
@@ -17849,11 +17104,6 @@
    "source": 190,
    "target": 380,
    "value": 2.13
-  },
-  {
-   "source": 190,
-   "target": 392,
-   "value": 2.03
   },
   {
    "source": 191,
@@ -18091,16 +17341,6 @@
    "value": 2.15
   },
   {
-   "source": 194,
-   "target": 380,
-   "value": 2.21
-  },
-  {
-   "source": 194,
-   "target": 383,
-   "value": 2.37
-  },
-  {
    "source": 195,
    "target": 133,
    "value": 2.15
@@ -18246,16 +17486,6 @@
    "value": 2.09
   },
   {
-   "source": 197,
-   "target": 378,
-   "value": 2.1
-  },
-  {
-   "source": 197,
-   "target": 382,
-   "value": 2.12
-  },
-  {
    "source": 198,
    "target": 177,
    "value": 4.3
@@ -18349,11 +17579,6 @@
    "source": 199,
    "target": 326,
    "value": 2.0
-  },
-  {
-   "source": 199,
-   "target": 381,
-   "value": 2.48
   },
   {
    "source": 200,
@@ -18486,11 +17711,6 @@
    "value": 2.02
   },
   {
-   "source": 201,
-   "target": 380,
-   "value": 2.43
-  },
-  {
    "source": 202,
    "target": 30,
    "value": 2.09
@@ -18586,16 +17806,6 @@
    "value": 2.03
   },
   {
-   "source": 202,
-   "target": 369,
-   "value": 2.25
-  },
-  {
-   "source": 202,
-   "target": 378,
-   "value": 2.34
-  },
-  {
    "source": 203,
    "target": 69,
    "value": 2.07
@@ -18659,11 +17869,6 @@
    "source": 203,
    "target": 347,
    "value": 2.03
-  },
-  {
-   "source": 203,
-   "target": 386,
-   "value": 2.06
   },
   {
    "source": 204,
@@ -18849,11 +18054,6 @@
    "source": 205,
    "target": 339,
    "value": 2.18
-  },
-  {
-   "source": 205,
-   "target": 367,
-   "value": 2.03
   },
   {
    "source": 206,
@@ -19049,11 +18249,6 @@
    "source": 208,
    "target": 355,
    "value": 2.23
-  },
-  {
-   "source": 208,
-   "target": 373,
-   "value": 2.58
   },
   {
    "source": 209,
@@ -19281,11 +18476,6 @@
    "value": 2.21
   },
   {
-   "source": 212,
-   "target": 366,
-   "value": 2.36
-  },
-  {
    "source": 213,
    "target": 1,
    "value": 2.95
@@ -19431,21 +18621,6 @@
    "value": 2.15
   },
   {
-   "source": 213,
-   "target": 364,
-   "value": 2.54
-  },
-  {
-   "source": 213,
-   "target": 365,
-   "value": 2.13
-  },
-  {
-   "source": 213,
-   "target": 368,
-   "value": 2.18
-  },
-  {
    "source": 214,
    "target": 6,
    "value": 2.23
@@ -19489,11 +18664,6 @@
    "source": 214,
    "target": 339,
    "value": 2.1
-  },
-  {
-   "source": 214,
-   "target": 362,
-   "value": 2.02
   },
   {
    "source": 215,
@@ -19554,16 +18724,6 @@
    "source": 215,
    "target": 350,
    "value": 2.23
-  },
-  {
-   "source": 215,
-   "target": 362,
-   "value": 2.32
-  },
-  {
-   "source": 215,
-   "target": 369,
-   "value": 2.53
   },
   {
    "source": 216,
@@ -19656,11 +18816,6 @@
    "value": 2.6
   },
   {
-   "source": 216,
-   "target": 358,
-   "value": 2.03
-  },
-  {
    "source": 217,
    "target": 1,
    "value": 2.17
@@ -19704,11 +18859,6 @@
    "source": 217,
    "target": 326,
    "value": 2.53
-  },
-  {
-   "source": 217,
-   "target": 364,
-   "value": 2.33
   },
   {
    "source": 218,
@@ -19849,11 +18999,6 @@
    "source": 221,
    "target": 214,
    "value": 2.52
-  },
-  {
-   "source": 221,
-   "target": 362,
-   "value": 2.24
   },
   {
    "source": 222,
@@ -20031,11 +19176,6 @@
    "value": 2.07
   },
   {
-   "source": 223,
-   "target": 365,
-   "value": 2.33
-  },
-  {
    "source": 224,
    "target": 32,
    "value": 2.08
@@ -20089,11 +19229,6 @@
    "source": 224,
    "target": 339,
    "value": 2.05
-  },
-  {
-   "source": 224,
-   "target": 366,
-   "value": 2.07
   },
   {
    "source": 225,
@@ -20159,16 +19294,6 @@
    "source": 225,
    "target": 341,
    "value": 2.07
-  },
-  {
-   "source": 225,
-   "target": 346,
-   "value": 2.33
-  },
-  {
-   "source": 225,
-   "target": 360,
-   "value": 2.65
   },
   {
    "source": 226,
@@ -20316,16 +19441,6 @@
    "value": 2.04
   },
   {
-   "source": 226,
-   "target": 357,
-   "value": 2.0
-  },
-  {
-   "source": 226,
-   "target": 358,
-   "value": 2.0
-  },
-  {
    "source": 227,
    "target": 3,
    "value": 2.14
@@ -20376,16 +19491,6 @@
    "value": 2.03
   },
   {
-   "source": 227,
-   "target": 355,
-   "value": 2.03
-  },
-  {
-   "source": 227,
-   "target": 362,
-   "value": 2.01
-  },
-  {
    "source": 228,
    "target": 38,
    "value": 2.46
@@ -20419,11 +19524,6 @@
    "source": 228,
    "target": 303,
    "value": 2.72
-  },
-  {
-   "source": 228,
-   "target": 358,
-   "value": 2.12
   },
   {
    "source": 229,
@@ -20504,16 +19604,6 @@
    "source": 229,
    "target": 336,
    "value": 2.02
-  },
-  {
-   "source": 229,
-   "target": 348,
-   "value": 2.08
-  },
-  {
-   "source": 229,
-   "target": 350,
-   "value": 2.15
   },
   {
    "source": 230,
@@ -20749,16 +19839,6 @@
    "source": 233,
    "target": 313,
    "value": 2.37
-  },
-  {
-   "source": 233,
-   "target": 345,
-   "value": 2.14
-  },
-  {
-   "source": 233,
-   "target": 352,
-   "value": 2.07
   },
   {
    "source": 234,
@@ -21071,26 +20151,6 @@
    "value": 2.17
   },
   {
-   "source": 237,
-   "target": 341,
-   "value": 2.23
-  },
-  {
-   "source": 237,
-   "target": 346,
-   "value": 2.01
-  },
-  {
-   "source": 237,
-   "target": 347,
-   "value": 2.34
-  },
-  {
-   "source": 237,
-   "target": 353,
-   "value": 2.0
-  },
-  {
    "source": 238,
    "target": 107,
    "value": 2.35
@@ -21274,21 +20334,6 @@
    "source": 240,
    "target": 322,
    "value": 2.08
-  },
-  {
-   "source": 240,
-   "target": 336,
-   "value": 2.29
-  },
-  {
-   "source": 240,
-   "target": 344,
-   "value": 2.07
-  },
-  {
-   "source": 240,
-   "target": 345,
-   "value": 2.05
   },
   {
    "source": 241,
@@ -21491,21 +20536,6 @@
    "value": 2.89
   },
   {
-   "source": 242,
-   "target": 341,
-   "value": 2.4
-  },
-  {
-   "source": 242,
-   "target": 343,
-   "value": 2.4
-  },
-  {
-   "source": 242,
-   "target": 346,
-   "value": 2.25
-  },
-  {
    "source": 243,
    "target": 3,
    "value": 2.08
@@ -21579,11 +20609,6 @@
    "source": 243,
    "target": 282,
    "value": 3.04
-  },
-  {
-   "source": 243,
-   "target": 345,
-   "value": 2.29
   },
   {
    "source": 244,
@@ -21684,26 +20709,6 @@
    "source": 244,
    "target": 324,
    "value": 2.18
-  },
-  {
-   "source": 244,
-   "target": 328,
-   "value": 2.11
-  },
-  {
-   "source": 244,
-   "target": 341,
-   "value": 2.01
-  },
-  {
-   "source": 244,
-   "target": 343,
-   "value": 2.26
-  },
-  {
-   "source": 244,
-   "target": 346,
-   "value": 2.0
   },
   {
    "source": 245,
@@ -21909,11 +20914,6 @@
    "source": 247,
    "target": 322,
    "value": 2.03
-  },
-  {
-   "source": 247,
-   "target": 336,
-   "value": 2.26
   },
   {
    "source": 248,
@@ -22156,16 +21156,6 @@
    "value": 2.19
   },
   {
-   "source": 249,
-   "target": 328,
-   "value": 2.27
-  },
-  {
-   "source": 249,
-   "target": 341,
-   "value": 2.11
-  },
-  {
    "source": 250,
    "target": 37,
    "value": 2.02
@@ -22294,11 +21284,6 @@
    "source": 252,
    "target": 318,
    "value": 2.03
-  },
-  {
-   "source": 252,
-   "target": 328,
-   "value": 2.59
   },
   {
    "source": 253,
@@ -22546,16 +21531,6 @@
    "value": 2.46
   },
   {
-   "source": 256,
-   "target": 317,
-   "value": 2.28
-  },
-  {
-   "source": 256,
-   "target": 329,
-   "value": 2.03
-  },
-  {
    "source": 257,
    "target": 8,
    "value": 2.33
@@ -22691,11 +21666,6 @@
    "value": 2.28
   },
   {
-   "source": 259,
-   "target": 315,
-   "value": 2.1
-  },
-  {
    "source": 260,
    "target": 78,
    "value": 2.1
@@ -22751,16 +21721,6 @@
    "value": 2.22
   },
   {
-   "source": 260,
-   "target": 311,
-   "value": 2.21
-  },
-  {
-   "source": 260,
-   "target": 314,
-   "value": 2.38
-  },
-  {
    "source": 261,
    "target": 29,
    "value": 2.02
@@ -22809,11 +21769,6 @@
    "source": 261,
    "target": 300,
    "value": 2.5
-  },
-  {
-   "source": 261,
-   "target": 317,
-   "value": 2.32
   },
   {
    "source": 262,
@@ -22974,16 +21929,6 @@
    "source": 263,
    "target": 288,
    "value": 2.03
-  },
-  {
-   "source": 263,
-   "target": 311,
-   "value": 2.25
-  },
-  {
-   "source": 263,
-   "target": 320,
-   "value": 2.57
   },
   {
    "source": 264,
@@ -23161,16 +22106,6 @@
    "value": 2.08
   },
   {
-   "source": 267,
-   "target": 311,
-   "value": 2.19
-  },
-  {
-   "source": 267,
-   "target": 320,
-   "value": 2.01
-  },
-  {
    "source": 268,
    "target": 26,
    "value": 2.01
@@ -23261,11 +22196,6 @@
    "value": 2.05
   },
   {
-   "source": 269,
-   "target": 303,
-   "value": 2.44
-  },
-  {
    "source": 270,
    "target": 6,
    "value": 2.0
@@ -23299,11 +22229,6 @@
    "source": 270,
    "target": 245,
    "value": 2.98
-  },
-  {
-   "source": 270,
-   "target": 312,
-   "value": 2.4
   },
   {
    "source": 271,
@@ -23386,11 +22311,6 @@
    "value": 2.59
   },
   {
-   "source": 272,
-   "target": 309,
-   "value": 2.08
-  },
-  {
    "source": 273,
    "target": 32,
    "value": 2.12
@@ -23444,16 +22364,6 @@
    "source": 273,
    "target": 236,
    "value": 2.55
-  },
-  {
-   "source": 273,
-   "target": 303,
-   "value": 2.29
-  },
-  {
-   "source": 273,
-   "target": 308,
-   "value": 2.01
   },
   {
    "source": 274,
@@ -23576,11 +22486,6 @@
    "value": 2.12
   },
   {
-   "source": 277,
-   "target": 298,
-   "value": 2.14
-  },
-  {
    "source": 278,
    "target": 28,
    "value": 2.25
@@ -23616,11 +22521,6 @@
    "value": 3.02
   },
   {
-   "source": 279,
-   "target": 305,
-   "value": 2.08
-  },
-  {
    "source": 280,
    "target": 28,
    "value": 2.23
@@ -23654,11 +22554,6 @@
    "source": 280,
    "target": 289,
    "value": 2.08
-  },
-  {
-   "source": 280,
-   "target": 294,
-   "value": 2.45
   },
   {
    "source": 281,
@@ -23821,16 +22716,6 @@
    "value": 2.53
   },
   {
-   "source": 282,
-   "target": 293,
-   "value": 2.34
-  },
-  {
-   "source": 282,
-   "target": 305,
-   "value": 2.07
-  },
-  {
    "source": 284,
    "target": 10,
    "value": 3.02
@@ -23874,11 +22759,6 @@
    "source": 284,
    "target": 281,
    "value": 2.72
-  },
-  {
-   "source": 284,
-   "target": 299,
-   "value": 2.1
   },
   {
    "source": 285,
@@ -23949,16 +22829,6 @@
    "source": 285,
    "target": 256,
    "value": 2.16
-  },
-  {
-   "source": 285,
-   "target": 293,
-   "value": 2.23
-  },
-  {
-   "source": 285,
-   "target": 304,
-   "value": 2.29
   },
   {
    "source": 286,
@@ -24456,16 +23326,6 @@
    "value": 2.46
   },
   {
-   "source": 293,
-   "target": 282,
-   "value": 2.34
-  },
-  {
-   "source": 293,
-   "target": 285,
-   "value": 2.23
-  },
-  {
    "source": 294,
    "target": 48,
    "value": 2.3
@@ -24474,11 +23334,6 @@
    "source": 294,
    "target": 207,
    "value": 2.75
-  },
-  {
-   "source": 294,
-   "target": 280,
-   "value": 2.45
   },
   {
    "source": 295,
@@ -24651,11 +23506,6 @@
    "value": 2.35
   },
   {
-   "source": 298,
-   "target": 277,
-   "value": 2.14
-  },
-  {
    "source": 299,
    "target": 61,
    "value": 2.09
@@ -24664,11 +23514,6 @@
    "source": 299,
    "target": 108,
    "value": 2.57
-  },
-  {
-   "source": 299,
-   "target": 284,
-   "value": 2.1
   },
   {
    "source": 300,
@@ -24831,16 +23676,6 @@
    "value": 2.15
   },
   {
-   "source": 303,
-   "target": 269,
-   "value": 2.44
-  },
-  {
-   "source": 303,
-   "target": 273,
-   "value": 2.29
-  },
-  {
    "source": 304,
    "target": 23,
    "value": 3.91
@@ -24896,11 +23731,6 @@
    "value": 2.01
   },
   {
-   "source": 304,
-   "target": 285,
-   "value": 2.29
-  },
-  {
    "source": 305,
    "target": 3,
    "value": 2.22
@@ -24924,16 +23754,6 @@
    "source": 305,
    "target": 254,
    "value": 2.12
-  },
-  {
-   "source": 305,
-   "target": 279,
-   "value": 2.08
-  },
-  {
-   "source": 305,
-   "target": 282,
-   "value": 2.07
   },
   {
    "source": 306,
@@ -25106,11 +23926,6 @@
    "value": 2.15
   },
   {
-   "source": 308,
-   "target": 273,
-   "value": 2.01
-  },
-  {
    "source": 309,
    "target": 5,
    "value": 2.29
@@ -25164,11 +23979,6 @@
    "source": 309,
    "target": 222,
    "value": 2.01
-  },
-  {
-   "source": 309,
-   "target": 272,
-   "value": 2.08
   },
   {
    "source": 310,
@@ -25381,21 +24191,6 @@
    "value": 2.19
   },
   {
-   "source": 311,
-   "target": 260,
-   "value": 2.21
-  },
-  {
-   "source": 311,
-   "target": 263,
-   "value": 2.25
-  },
-  {
-   "source": 311,
-   "target": 267,
-   "value": 2.19
-  },
-  {
    "source": 312,
    "target": 14,
    "value": 2.19
@@ -25469,11 +24264,6 @@
    "source": 312,
    "target": 245,
    "value": 2.32
-  },
-  {
-   "source": 312,
-   "target": 270,
-   "value": 2.4
   },
   {
    "source": 313,
@@ -25611,11 +24401,6 @@
    "value": 2.23
   },
   {
-   "source": 314,
-   "target": 260,
-   "value": 2.38
-  },
-  {
    "source": 315,
    "target": 18,
    "value": 2.99
@@ -25689,11 +24474,6 @@
    "source": 315,
    "target": 248,
    "value": 2.06
-  },
-  {
-   "source": 315,
-   "target": 259,
-   "value": 2.1
   },
   {
    "source": 316,
@@ -25784,16 +24564,6 @@
    "source": 317,
    "target": 197,
    "value": 2.04
-  },
-  {
-   "source": 317,
-   "target": 256,
-   "value": 2.28
-  },
-  {
-   "source": 317,
-   "target": 261,
-   "value": 2.32
   },
   {
    "source": 318,
@@ -25989,16 +24759,6 @@
    "source": 320,
    "target": 226,
    "value": 2.28
-  },
-  {
-   "source": 320,
-   "target": 263,
-   "value": 2.57
-  },
-  {
-   "source": 320,
-   "target": 267,
-   "value": 2.01
   },
   {
    "source": 321,
@@ -26386,21 +25146,6 @@
    "value": 2.89
   },
   {
-   "source": 328,
-   "target": 244,
-   "value": 2.11
-  },
-  {
-   "source": 328,
-   "target": 249,
-   "value": 2.27
-  },
-  {
-   "source": 328,
-   "target": 252,
-   "value": 2.59
-  },
-  {
    "source": 329,
    "target": 8,
    "value": 2.26
@@ -26434,11 +25179,6 @@
    "source": 329,
    "target": 150,
    "value": 2.31
-  },
-  {
-   "source": 329,
-   "target": 256,
-   "value": 2.03
   },
   {
    "source": 330,
@@ -26771,16 +25511,6 @@
    "value": 2.02
   },
   {
-   "source": 336,
-   "target": 240,
-   "value": 2.29
-  },
-  {
-   "source": 336,
-   "target": 247,
-   "value": 2.26
-  },
-  {
    "source": 337,
    "target": 28,
    "value": 2.08
@@ -27091,26 +25821,6 @@
    "value": 2.04
   },
   {
-   "source": 341,
-   "target": 237,
-   "value": 2.23
-  },
-  {
-   "source": 341,
-   "target": 242,
-   "value": 2.4
-  },
-  {
-   "source": 341,
-   "target": 244,
-   "value": 2.01
-  },
-  {
-   "source": 341,
-   "target": 249,
-   "value": 2.11
-  },
-  {
    "source": 342,
    "target": 14,
    "value": 2.02
@@ -27211,16 +25921,6 @@
    "value": 2.12
   },
   {
-   "source": 343,
-   "target": 242,
-   "value": 2.4
-  },
-  {
-   "source": 343,
-   "target": 244,
-   "value": 2.26
-  },
-  {
    "source": 344,
    "target": 3,
    "value": 2.07
@@ -27281,11 +25981,6 @@
    "value": 2.15
   },
   {
-   "source": 344,
-   "target": 240,
-   "value": 2.07
-  },
-  {
    "source": 345,
    "target": 3,
    "value": 2.3
@@ -27319,21 +26014,6 @@
    "source": 345,
    "target": 138,
    "value": 2.3
-  },
-  {
-   "source": 345,
-   "target": 233,
-   "value": 2.14
-  },
-  {
-   "source": 345,
-   "target": 240,
-   "value": 2.05
-  },
-  {
-   "source": 345,
-   "target": 243,
-   "value": 2.29
   },
   {
    "source": 346,
@@ -27456,26 +26136,6 @@
    "value": 2.07
   },
   {
-   "source": 346,
-   "target": 225,
-   "value": 2.33
-  },
-  {
-   "source": 346,
-   "target": 237,
-   "value": 2.01
-  },
-  {
-   "source": 346,
-   "target": 242,
-   "value": 2.25
-  },
-  {
-   "source": 346,
-   "target": 244,
-   "value": 2.0
-  },
-  {
    "source": 347,
    "target": 29,
    "value": 2.11
@@ -27516,11 +26176,6 @@
    "value": 2.03
   },
   {
-   "source": 347,
-   "target": 237,
-   "value": 2.34
-  },
-  {
    "source": 348,
    "target": 69,
    "value": 2.07
@@ -27544,11 +26199,6 @@
    "source": 348,
    "target": 202,
    "value": 2.05
-  },
-  {
-   "source": 348,
-   "target": 229,
-   "value": 2.08
   },
   {
    "source": 349,
@@ -27664,11 +26314,6 @@
    "source": 350,
    "target": 215,
    "value": 2.23
-  },
-  {
-   "source": 350,
-   "target": 229,
-   "value": 2.15
   },
   {
    "source": 351,
@@ -27796,11 +26441,6 @@
    "value": 2.66
   },
   {
-   "source": 352,
-   "target": 233,
-   "value": 2.07
-  },
-  {
    "source": 353,
    "target": 18,
    "value": 2.12
@@ -27863,11 +26503,6 @@
   {
    "source": 353,
    "target": 204,
-   "value": 2.0
-  },
-  {
-   "source": 353,
-   "target": 237,
    "value": 2.0
   },
   {
@@ -27976,11 +26611,6 @@
    "value": 2.23
   },
   {
-   "source": 355,
-   "target": 227,
-   "value": 2.03
-  },
-  {
    "source": 356,
    "target": 87,
    "value": 2.44
@@ -28016,11 +26646,6 @@
    "value": 2.28
   },
   {
-   "source": 357,
-   "target": 226,
-   "value": 2.0
-  },
-  {
    "source": 358,
    "target": 49,
    "value": 2.01
@@ -28044,21 +26669,6 @@
    "source": 358,
    "target": 202,
    "value": 2.05
-  },
-  {
-   "source": 358,
-   "target": 216,
-   "value": 2.03
-  },
-  {
-   "source": 358,
-   "target": 226,
-   "value": 2.0
-  },
-  {
-   "source": 358,
-   "target": 228,
-   "value": 2.12
   },
   {
    "source": 359,
@@ -28109,11 +26719,6 @@
    "source": 360,
    "target": 191,
    "value": 2.22
-  },
-  {
-   "source": 360,
-   "target": 225,
-   "value": 2.65
   },
   {
    "source": 361,
@@ -28174,26 +26779,6 @@
    "source": 362,
    "target": 202,
    "value": 2.52
-  },
-  {
-   "source": 362,
-   "target": 214,
-   "value": 2.02
-  },
-  {
-   "source": 362,
-   "target": 215,
-   "value": 2.32
-  },
-  {
-   "source": 362,
-   "target": 221,
-   "value": 2.24
-  },
-  {
-   "source": 362,
-   "target": 227,
-   "value": 2.01
   },
   {
    "source": 363,
@@ -28276,16 +26861,6 @@
    "value": 2.23
   },
   {
-   "source": 364,
-   "target": 213,
-   "value": 2.54
-  },
-  {
-   "source": 364,
-   "target": 217,
-   "value": 2.33
-  },
-  {
    "source": 365,
    "target": 12,
    "value": 2.44
@@ -28329,16 +26904,6 @@
    "source": 365,
    "target": 189,
    "value": 2.06
-  },
-  {
-   "source": 365,
-   "target": 213,
-   "value": 2.13
-  },
-  {
-   "source": 365,
-   "target": 223,
-   "value": 2.33
   },
   {
    "source": 366,
@@ -28391,24 +26956,9 @@
    "value": 2.75
   },
   {
-   "source": 366,
-   "target": 212,
-   "value": 2.36
-  },
-  {
-   "source": 366,
-   "target": 224,
-   "value": 2.07
-  },
-  {
    "source": 367,
    "target": 156,
    "value": 2.11
-  },
-  {
-   "source": 367,
-   "target": 205,
-   "value": 2.03
   },
   {
    "source": 368,
@@ -28471,11 +27021,6 @@
    "value": 2.03
   },
   {
-   "source": 368,
-   "target": 213,
-   "value": 2.18
-  },
-  {
    "source": 369,
    "target": 0,
    "value": 3.09
@@ -28514,16 +27059,6 @@
    "source": 369,
    "target": 193,
    "value": 2.51
-  },
-  {
-   "source": 369,
-   "target": 202,
-   "value": 2.25
-  },
-  {
-   "source": 369,
-   "target": 215,
-   "value": 2.53
   },
   {
    "source": 370,
@@ -28639,11 +27174,6 @@
    "source": 373,
    "target": 135,
    "value": 2.26
-  },
-  {
-   "source": 373,
-   "target": 208,
-   "value": 2.58
   },
   {
    "source": 374,
@@ -28796,16 +27326,6 @@
    "value": 2.39
   },
   {
-   "source": 378,
-   "target": 197,
-   "value": 2.1
-  },
-  {
-   "source": 378,
-   "target": 202,
-   "value": 2.34
-  },
-  {
    "source": 379,
    "target": 31,
    "value": 2.42
@@ -28844,16 +27364,6 @@
    "source": 380,
    "target": 190,
    "value": 2.13
-  },
-  {
-   "source": 380,
-   "target": 194,
-   "value": 2.21
-  },
-  {
-   "source": 380,
-   "target": 201,
-   "value": 2.43
   },
   {
    "source": 381,
@@ -28901,11 +27411,6 @@
    "value": 2.39
   },
   {
-   "source": 381,
-   "target": 199,
-   "value": 2.48
-  },
-  {
    "source": 382,
    "target": 65,
    "value": 2.04
@@ -28919,11 +27424,6 @@
    "source": 382,
    "target": 110,
    "value": 2.17
-  },
-  {
-   "source": 382,
-   "target": 197,
-   "value": 2.12
   },
   {
    "source": 383,
@@ -29006,11 +27506,6 @@
    "value": 2.15
   },
   {
-   "source": 383,
-   "target": 194,
-   "value": 2.37
-  },
-  {
    "source": 384,
    "target": 26,
    "value": 2.02
@@ -29049,16 +27544,6 @@
    "source": 386,
    "target": 113,
    "value": 2.1
-  },
-  {
-   "source": 386,
-   "target": 185,
-   "value": 2.66
-  },
-  {
-   "source": 386,
-   "target": 203,
-   "value": 2.06
   },
   {
    "source": 387,
@@ -29231,21 +27716,6 @@
    "value": 2.04
   },
   {
-   "source": 392,
-   "target": 180,
-   "value": 2.02
-  },
-  {
-   "source": 392,
-   "target": 187,
-   "value": 2.54
-  },
-  {
-   "source": 392,
-   "target": 190,
-   "value": 2.03
-  },
-  {
    "source": 393,
    "target": 15,
    "value": 2.59
@@ -29299,11 +27769,6 @@
    "source": 393,
    "target": 173,
    "value": 2.15
-  },
-  {
-   "source": 393,
-   "target": 188,
-   "value": 2.12
   },
   {
    "source": 394,
@@ -29389,11 +27854,6 @@
    "source": 395,
    "target": 145,
    "value": 2.18
-  },
-  {
-   "source": 395,
-   "target": 179,
-   "value": 2.01
   },
   {
    "source": 396,
@@ -29511,16 +27971,6 @@
    "value": 2.11
   },
   {
-   "source": 397,
-   "target": 176,
-   "value": 2.1
-  },
-  {
-   "source": 397,
-   "target": 179,
-   "value": 3.14
-  },
-  {
    "source": 398,
    "target": 5,
    "value": 2.19
@@ -29591,16 +28041,6 @@
    "value": 2.28
   },
   {
-   "source": 399,
-   "target": 173,
-   "value": 2.36
-  },
-  {
-   "source": 399,
-   "target": 179,
-   "value": 2.35
-  },
-  {
    "source": 400,
    "target": 29,
    "value": 2.0
@@ -29614,11 +28054,6 @@
    "source": 400,
    "target": 152,
    "value": 2.3
-  },
-  {
-   "source": 400,
-   "target": 174,
-   "value": 2.01
   },
   {
    "source": 401,
@@ -29751,11 +28186,6 @@
    "value": 2.99
   },
   {
-   "source": 404,
-   "target": 168,
-   "value": 2.06
-  },
-  {
    "source": 405,
    "target": 12,
    "value": 2.34
@@ -29844,11 +28274,6 @@
    "source": 406,
    "target": 116,
    "value": 2.15
-  },
-  {
-   "source": 406,
-   "target": 165,
-   "value": 2.01
   },
   {
    "source": 407,
@@ -29971,11 +28396,6 @@
    "value": 2.1
   },
   {
-   "source": 411,
-   "target": 165,
-   "value": 2.08
-  },
-  {
    "source": 412,
    "target": 15,
    "value": 2.05
@@ -29984,16 +28404,6 @@
    "source": 412,
    "target": 132,
    "value": 2.05
-  },
-  {
-   "source": 412,
-   "target": 159,
-   "value": 2.76
-  },
-  {
-   "source": 412,
-   "target": 169,
-   "value": 2.33
   },
   {
    "source": 413,
@@ -30051,11 +28461,6 @@
    "value": 2.16
   },
   {
-   "source": 413,
-   "target": 170,
-   "value": 2.32
-  },
-  {
    "source": 414,
    "target": 15,
    "value": 2.09
@@ -30096,26 +28501,6 @@
    "value": 2.3
   },
   {
-   "source": 414,
-   "target": 159,
-   "value": 2.76
-  },
-  {
-   "source": 414,
-   "target": 160,
-   "value": 2.03
-  },
-  {
-   "source": 414,
-   "target": 162,
-   "value": 2.18
-  },
-  {
-   "source": 414,
-   "target": 169,
-   "value": 2.31
-  },
-  {
    "source": 415,
    "target": 15,
    "value": 2.47
@@ -30151,26 +28536,6 @@
    "value": 2.13
   },
   {
-   "source": 415,
-   "target": 159,
-   "value": 2.92
-  },
-  {
-   "source": 415,
-   "target": 160,
-   "value": 2.05
-  },
-  {
-   "source": 415,
-   "target": 169,
-   "value": 2.29
-  },
-  {
-   "source": 415,
-   "target": 173,
-   "value": 2.11
-  },
-  {
    "source": 416,
    "target": 15,
    "value": 2.54
@@ -30196,21 +28561,6 @@
    "value": 2.21
   },
   {
-   "source": 416,
-   "target": 159,
-   "value": 2.55
-  },
-  {
-   "source": 416,
-   "target": 162,
-   "value": 2.85
-  },
-  {
-   "source": 416,
-   "target": 169,
-   "value": 3.02
-  },
-  {
    "source": 417,
    "target": 15,
    "value": 2.55
@@ -30229,21 +28579,6 @@
    "source": 417,
    "target": 153,
    "value": 2.11
-  },
-  {
-   "source": 417,
-   "target": 159,
-   "value": 2.38
-  },
-  {
-   "source": 417,
-   "target": 162,
-   "value": 2.54
-  },
-  {
-   "source": 417,
-   "target": 169,
-   "value": 2.29
   },
   {
    "source": 418,
@@ -30304,11 +28639,6 @@
    "source": 420,
    "target": 140,
    "value": 2.03
-  },
-  {
-   "source": 420,
-   "target": 164,
-   "value": 2.34
   },
   {
    "source": 421,
@@ -30436,26 +28766,6 @@
    "value": 2.74
   },
   {
-   "source": 424,
-   "target": 153,
-   "value": 2.84
-  },
-  {
-   "source": 424,
-   "target": 158,
-   "value": 2.78
-  },
-  {
-   "source": 424,
-   "target": 159,
-   "value": 3.26
-  },
-  {
-   "source": 424,
-   "target": 162,
-   "value": 2.22
-  },
-  {
    "source": 425,
    "target": 19,
    "value": 2.2
@@ -30499,11 +28809,6 @@
    "source": 425,
    "target": 118,
    "value": 2.22
-  },
-  {
-   "source": 425,
-   "target": 164,
-   "value": 3.78
   },
   {
    "source": 426,
@@ -30651,16 +28956,6 @@
    "value": 2.23
   },
   {
-   "source": 430,
-   "target": 142,
-   "value": 2.6
-  },
-  {
-   "source": 430,
-   "target": 154,
-   "value": 2.18
-  },
-  {
    "source": 431,
    "target": 18,
    "value": 2.09
@@ -30729,16 +29024,6 @@
    "source": 432,
    "target": 101,
    "value": 2.02
-  },
-  {
-   "source": 432,
-   "target": 144,
-   "value": 2.05
-  },
-  {
-   "source": 432,
-   "target": 158,
-   "value": 2.14
   },
   {
    "source": 433,
@@ -30811,11 +29096,6 @@
    "value": 2.14
   },
   {
-   "source": 434,
-   "target": 149,
-   "value": 2.05
-  },
-  {
    "source": 435,
    "target": 7,
    "value": 2.36
@@ -30849,21 +29129,6 @@
    "source": 435,
    "target": 125,
    "value": 2.1
-  },
-  {
-   "source": 435,
-   "target": 137,
-   "value": 2.21
-  },
-  {
-   "source": 435,
-   "target": 145,
-   "value": 2.24
-  },
-  {
-   "source": 435,
-   "target": 155,
-   "value": 2.52
   },
   {
    "source": 436,
@@ -30904,21 +29169,6 @@
    "source": 436,
    "target": 93,
    "value": 2.04
-  },
-  {
-   "source": 436,
-   "target": 139,
-   "value": 2.14
-  },
-  {
-   "source": 436,
-   "target": 143,
-   "value": 2.03
-  },
-  {
-   "source": 436,
-   "target": 144,
-   "value": 2.19
   },
   {
    "source": 437,
@@ -30964,11 +29214,6 @@
    "source": 438,
    "target": 100,
    "value": 2.14
-  },
-  {
-   "source": 438,
-   "target": 147,
-   "value": 2.05
   },
   {
    "source": 439,
@@ -31044,16 +29289,6 @@
    "source": 439,
    "target": 129,
    "value": 3.05
-  },
-  {
-   "source": 439,
-   "target": 135,
-   "value": 2.23
-  },
-  {
-   "source": 439,
-   "target": 138,
-   "value": 2.06
   },
   {
    "source": 441,
@@ -31211,11 +29446,6 @@
    "value": 2.22
   },
   {
-   "source": 446,
-   "target": 138,
-   "value": 2.26
-  },
-  {
    "source": 447,
    "target": 15,
    "value": 2.34
@@ -31231,19 +29461,9 @@
    "value": 2.02
   },
   {
-   "source": 447,
-   "target": 132,
-   "value": 2.19
-  },
-  {
    "source": 448,
    "target": 9,
    "value": 2.1
-  },
-  {
-   "source": 448,
-   "target": 125,
-   "value": 2.15
   },
   {
    "source": 449,
@@ -31386,11 +29606,6 @@
    "value": 2.4
   },
   {
-   "source": 452,
-   "target": 136,
-   "value": 2.19
-  },
-  {
    "source": 453,
    "target": 5,
    "value": 2.06
@@ -31419,11 +29634,6 @@
    "source": 453,
    "target": 94,
    "value": 2.1
-  },
-  {
-   "source": 453,
-   "target": 133,
-   "value": 2.27
   },
   {
    "source": 454,
@@ -31506,16 +29716,6 @@
    "value": 2.23
   },
   {
-   "source": 456,
-   "target": 118,
-   "value": 2.17
-  },
-  {
-   "source": 456,
-   "target": 119,
-   "value": 2.29
-  },
-  {
    "source": 457,
    "target": 66,
    "value": 2.03
@@ -31586,11 +29786,6 @@
    "value": 2.0
   },
   {
-   "source": 460,
-   "target": 112,
-   "value": 2.36
-  },
-  {
    "source": 461,
    "target": 33,
    "value": 2.08
@@ -31609,21 +29804,6 @@
    "source": 462,
    "target": 84,
    "value": 2.13
-  },
-  {
-   "source": 462,
-   "target": 118,
-   "value": 2.37
-  },
-  {
-   "source": 462,
-   "target": 120,
-   "value": 2.11
-  },
-  {
-   "source": 462,
-   "target": 128,
-   "value": 2.38
   },
   {
    "source": 463,
@@ -31676,11 +29856,6 @@
    "value": 2.05
   },
   {
-   "source": 465,
-   "target": 125,
-   "value": 2.0
-  },
-  {
    "source": 466,
    "target": 5,
    "value": 2.07
@@ -31731,11 +29906,6 @@
    "value": 2.06
   },
   {
-   "source": 468,
-   "target": 105,
-   "value": 2.13
-  },
-  {
    "source": 469,
    "target": 15,
    "value": 2.25
@@ -31771,11 +29941,6 @@
    "value": 2.02
   },
   {
-   "source": 469,
-   "target": 107,
-   "value": 2.05
-  },
-  {
    "source": 470,
    "target": 4,
    "value": 2.32
@@ -31789,16 +29954,6 @@
    "source": 470,
    "target": 100,
    "value": 2.49
-  },
-  {
-   "source": 470,
-   "target": 104,
-   "value": 2.0
-  },
-  {
-   "source": 470,
-   "target": 105,
-   "value": 2.02
   },
   {
    "source": 471,
@@ -31841,11 +29996,6 @@
    "value": 2.02
   },
   {
-   "source": 471,
-   "target": 114,
-   "value": 2.27
-  },
-  {
    "source": 472,
    "target": 12,
    "value": 2.1
@@ -31884,11 +30034,6 @@
    "source": 472,
    "target": 92,
    "value": 2.02
-  },
-  {
-   "source": 472,
-   "target": 112,
-   "value": 2.1
   },
   {
    "source": 473,
@@ -31939,16 +30084,6 @@
    "source": 474,
    "target": 84,
    "value": 2.01
-  },
-  {
-   "source": 474,
-   "target": 97,
-   "value": 2.06
-  },
-  {
-   "source": 474,
-   "target": 112,
-   "value": 2.16
   },
   {
    "source": 475,
@@ -32051,11 +30186,6 @@
    "value": 2.26
   },
   {
-   "source": 477,
-   "target": 104,
-   "value": 2.22
-  },
-  {
    "source": 478,
    "target": 16,
    "value": 2.51
@@ -32141,11 +30271,6 @@
    "value": 2.12
   },
   {
-   "source": 481,
-   "target": 91,
-   "value": 2.17
-  },
-  {
    "source": 482,
    "target": 45,
    "value": 2.49
@@ -32164,16 +30289,6 @@
    "source": 483,
    "target": 86,
    "value": 2.72
-  },
-  {
-   "source": 483,
-   "target": 93,
-   "value": 2.51
-  },
-  {
-   "source": 483,
-   "target": 97,
-   "value": 2.33
   },
   {
    "source": 484,
@@ -32221,21 +30336,6 @@
    "value": 2.47
   },
   {
-   "source": 484,
-   "target": 89,
-   "value": 2.31
-  },
-  {
-   "source": 484,
-   "target": 92,
-   "value": 2.06
-  },
-  {
-   "source": 484,
-   "target": 94,
-   "value": 2.22
-  },
-  {
    "source": 485,
    "target": 65,
    "value": 2.14
@@ -32249,11 +30349,6 @@
    "source": 486,
    "target": 33,
    "value": 2.42
-  },
-  {
-   "source": 486,
-   "target": 85,
-   "value": 2.1
   },
   {
    "source": 487,
@@ -32274,11 +30369,6 @@
    "source": 488,
    "target": 5,
    "value": 2.5
-  },
-  {
-   "source": 488,
-   "target": 92,
-   "value": 2.44
   },
   {
    "source": 489,
@@ -32331,11 +30421,6 @@
    "value": 2.06
   },
   {
-   "source": 490,
-   "target": 95,
-   "value": 2.27
-  },
-  {
    "source": 491,
    "target": 14,
    "value": 2.08
@@ -32366,11 +30451,6 @@
    "value": 2.25
   },
   {
-   "source": 491,
-   "target": 80,
-   "value": 2.61
-  },
-  {
    "source": 492,
    "target": 18,
    "value": 2.32
@@ -32391,16 +30471,6 @@
    "value": 2.04
   },
   {
-   "source": 492,
-   "target": 84,
-   "value": 2.59
-  },
-  {
-   "source": 492,
-   "target": 86,
-   "value": 2.18
-  },
-  {
    "source": 493,
    "target": 36,
    "value": 2.1
@@ -32414,11 +30484,6 @@
    "source": 493,
    "target": 65,
    "value": 2.01
-  },
-  {
-   "source": 493,
-   "target": 96,
-   "value": 2.36
   },
   {
    "source": 495,
@@ -32471,11 +30536,6 @@
    "value": 2.54
   },
   {
-   "source": 497,
-   "target": 83,
-   "value": 2.11
-  },
-  {
    "source": 499,
    "target": 19,
    "value": 2.21
@@ -32496,11 +30556,6 @@
    "value": 2.06
   },
   {
-   "source": 499,
-   "target": 82,
-   "value": 2.65
-  },
-  {
    "source": 500,
    "target": 10,
    "value": 2.11
@@ -32509,11 +30564,6 @@
    "source": 500,
    "target": 61,
    "value": 2.06
-  },
-  {
-   "source": 500,
-   "target": 83,
-   "value": 2.07
   },
   {
    "source": 501,
@@ -32551,24 +30601,9 @@
    "value": 2.19
   },
   {
-   "source": 501,
-   "target": 84,
-   "value": 2.0
-  },
-  {
-   "source": 501,
-   "target": 89,
-   "value": 2.43
-  },
-  {
    "source": 502,
    "target": 11,
    "value": 2.15
-  },
-  {
-   "source": 502,
-   "target": 86,
-   "value": 2.07
   },
   {
    "source": 503,
@@ -32584,21 +30619,6 @@
    "source": 503,
    "target": 29,
    "value": 2.07
-  },
-  {
-   "source": 505,
-   "target": 78,
-   "value": 2.5
-  },
-  {
-   "source": 505,
-   "target": 81,
-   "value": 2.0
-  },
-  {
-   "source": 505,
-   "target": 82,
-   "value": 2.12
   },
   {
    "source": 506,
@@ -32626,16 +30646,6 @@
    "value": 2.26
   },
   {
-   "source": 507,
-   "target": 80,
-   "value": 2.0
-  },
-  {
-   "source": 507,
-   "target": 82,
-   "value": 2.38
-  },
-  {
    "source": 508,
    "target": 3,
    "value": 2.08
@@ -32654,11 +30664,6 @@
    "source": 508,
    "target": 52,
    "value": 2.22
-  },
-  {
-   "source": 508,
-   "target": 75,
-   "value": 2.13
   },
   {
    "source": 509,
@@ -32706,16 +30711,6 @@
    "value": 2.83
   },
   {
-   "source": 510,
-   "target": 64,
-   "value": 2.1
-  },
-  {
-   "source": 510,
-   "target": 74,
-   "value": 2.84
-  },
-  {
    "source": 511,
    "target": 2,
    "value": 2.0
@@ -32734,11 +30729,6 @@
    "source": 512,
    "target": 47,
    "value": 2.21
-  },
-  {
-   "source": 512,
-   "target": 76,
-   "value": 2.07
   },
   {
    "source": 513,
@@ -32781,11 +30771,6 @@
    "value": 2.3
   },
   {
-   "source": 517,
-   "target": 61,
-   "value": 2.06
-  },
-  {
    "source": 518,
    "target": 46,
    "value": 2.06
@@ -32821,16 +30806,6 @@
    "value": 2.42
   },
   {
-   "source": 520,
-   "target": 53,
-   "value": 2.1
-  },
-  {
-   "source": 520,
-   "target": 60,
-   "value": 2.31
-  },
-  {
    "source": 521,
    "target": 13,
    "value": 2.02
@@ -32841,34 +30816,9 @@
    "value": 2.29
   },
   {
-   "source": 522,
-   "target": 54,
-   "value": 2.69
-  },
-  {
-   "source": 522,
-   "target": 55,
-   "value": 2.3
-  },
-  {
    "source": 523,
    "target": 35,
    "value": 2.07
-  },
-  {
-   "source": 523,
-   "target": 50,
-   "value": 2.0
-  },
-  {
-   "source": 523,
-   "target": 54,
-   "value": 2.02
-  },
-  {
-   "source": 523,
-   "target": 55,
-   "value": 2.05
   },
   {
    "source": 524,
@@ -32889,11 +30839,6 @@
    "source": 525,
    "target": 32,
    "value": 2.08
-  },
-  {
-   "source": 526,
-   "target": 62,
-   "value": 2.0
   },
   {
    "source": 527,
@@ -32926,11 +30871,6 @@
    "value": 2.83
   },
   {
-   "source": 527,
-   "target": 47,
-   "value": 2.1
-  },
-  {
    "source": 528,
    "target": 25,
    "value": 2.07
@@ -32939,21 +30879,6 @@
    "source": 528,
    "target": 29,
    "value": 2.11
-  },
-  {
-   "source": 528,
-   "target": 49,
-   "value": 2.97
-  },
-  {
-   "source": 528,
-   "target": 50,
-   "value": 2.26
-  },
-  {
-   "source": 528,
-   "target": 60,
-   "value": 2.25
   },
   {
    "source": 529,
@@ -32979,11 +30904,6 @@
    "source": 530,
    "target": 37,
    "value": 2.05
-  },
-  {
-   "source": 530,
-   "target": 44,
-   "value": 2.23
   },
   {
    "source": 531,
@@ -33016,24 +30936,9 @@
    "value": 2.44
   },
   {
-   "source": 532,
-   "target": 42,
-   "value": 2.3
-  },
-  {
-   "source": 532,
-   "target": 58,
-   "value": 2.42
-  },
-  {
    "source": 533,
    "target": 17,
    "value": 2.11
-  },
-  {
-   "source": 533,
-   "target": 44,
-   "value": 2.61
   },
   {
    "source": 535,
@@ -33044,11 +30949,6 @@
    "source": 535,
    "target": 30,
    "value": 2.1
-  },
-  {
-   "source": 535,
-   "target": 42,
-   "value": 2.5
   },
   {
    "source": 537,
@@ -33071,16 +30971,6 @@
    "value": 2.13
   },
   {
-   "source": 537,
-   "target": 41,
-   "value": 2.09
-  },
-  {
-   "source": 537,
-   "target": 47,
-   "value": 2.59
-  },
-  {
    "source": 538,
    "target": 1,
    "value": 2.02
@@ -33096,24 +30986,9 @@
    "value": 2.03
   },
   {
-   "source": 538,
-   "target": 42,
-   "value": 2.57
-  },
-  {
    "source": 539,
    "target": 26,
    "value": 2.09
-  },
-  {
-   "source": 539,
-   "target": 33,
-   "value": 3.11
-  },
-  {
-   "source": 539,
-   "target": 36,
-   "value": 2.63
   },
   {
    "source": 541,
@@ -33121,24 +30996,9 @@
    "value": 2.28
   },
   {
-   "source": 541,
-   "target": 41,
-   "value": 2.15
-  },
-  {
    "source": 542,
    "target": 9,
    "value": 2.53
-  },
-  {
-   "source": 542,
-   "target": 30,
-   "value": 2.43
-  },
-  {
-   "source": 542,
-   "target": 42,
-   "value": 2.63
   },
   {
    "source": 543,
@@ -33161,11 +31021,6 @@
    "value": 3.11
   },
   {
-   "source": 544,
-   "target": 28,
-   "value": 2.1
-  },
-  {
    "source": 545,
    "target": 1,
    "value": 3.4
@@ -33181,24 +31036,9 @@
    "value": 2.51
   },
   {
-   "source": 545,
-   "target": 27,
-   "value": 3.16
-  },
-  {
-   "source": 545,
-   "target": 41,
-   "value": 2.45
-  },
-  {
    "source": 546,
    "target": 18,
    "value": 2.01
-  },
-  {
-   "source": 546,
-   "target": 29,
-   "value": 2.57
   },
   {
    "source": 547,
@@ -33216,11 +31056,6 @@
    "value": 2.31
   },
   {
-   "source": 547,
-   "target": 35,
-   "value": 2.58
-  },
-  {
    "source": 548,
    "target": 10,
    "value": 2.21
@@ -33229,11 +31064,6 @@
    "source": 548,
    "target": 12,
    "value": 2.1
-  },
-  {
-   "source": 548,
-   "target": 41,
-   "value": 2.24
   },
   {
    "source": 549,
@@ -33246,19 +31076,9 @@
    "value": 2.02
   },
   {
-   "source": 551,
-   "target": 21,
-   "value": 2.04
-  },
-  {
    "source": 552,
    "target": 15,
    "value": 2.02
-  },
-  {
-   "source": 552,
-   "target": 21,
-   "value": 2.23
   },
   {
    "source": 554,
@@ -33271,19 +31091,9 @@
    "value": 2.06
   },
   {
-   "source": 557,
-   "target": 16,
-   "value": 2.44
-  },
-  {
    "source": 558,
    "target": 10,
    "value": 2.51
-  },
-  {
-   "source": 558,
-   "target": 14,
-   "value": 2.5
   },
   {
    "source": 559,
@@ -33291,2450 +31101,2300 @@
    "value": 2.12
   },
   {
-   "source": 559,
-   "target": 14,
-   "value": 2.34
-  },
-  {
    "source": 560,
    "target": 3,
    "value": 2.04
   },
   {
-   "source": 561,
-   "target": 13,
-   "value": 2.15
-  },
-  {
-   "source": 561,
-   "target": 28,
-   "value": 2.23
-  },
-  {
-   "source": 562,
-   "target": 14,
-   "value": 2.05
-  },
-  {
    "source": 565,
    "target": 5,
    "value": 2.03
-  },
-  {
-   "source": 565,
-   "target": 15,
-   "value": 2.24
-  },
-  {
-   "source": 565,
-   "target": 21,
-   "value": 2.25
-  },
-  {
-   "source": 566,
-   "target": 9,
-   "value": 2.15
-  },
-  {
-   "source": 568,
-   "target": 14,
-   "value": 2.86
-  },
-  {
-   "source": 571,
-   "target": 11,
-   "value": 2.03
-  },
-  {
-   "source": 571,
-   "target": 13,
-   "value": 2.04
-  },
-  {
-   "source": 571,
-   "target": 18,
-   "value": 2.18
-  },
-  {
-   "source": 572,
-   "target": 8,
-   "value": 2.2
-  },
-  {
-   "source": 573,
-   "target": 12,
-   "value": 2.04
-  },
-  {
-   "source": 589,
-   "target": 1,
-   "value": 2.09
   }
  ],
  "nodes": [
   {
    "group": 4,
-   "name": "Channeling, channel density and mass recovery in aquifer transport, with\n"
+   "name": "The HydroGrid as a Framework for Interconnected Water Systems: Emerging\n"
   },
   {
    "group": 6,
-   "name": "Subsecond pore-scale displacement processes and relaxation dynamics in\n"
+   "name": "Satellite Remote Sensing for Water Resources Management: Potential for\n"
   },
   {
    "group": 16,
-   "name": "Regional patterns of interannual variability of catchment water balances\n"
+   "name": "Finite Amplitude of Free Alternate Bars With Suspended Load"
   },
   {
    "group": 15,
-   "name": "The influence of geomorphology on large wood dynamics in a low gradient\n"
+   "name": "A High-Resolution Global Map of Soil Hydraulic Properties Produced by a\n"
   },
   {
    "group": 4,
-   "name": "Empirical assessment of theory for bankfull characteristics of alluvial\n"
+   "name": "An Empirical Examination on the Role of Water User Associations for\n"
   },
   {
    "group": 6,
-   "name": "Technological change in irrigated agriculture in a semiarid region of\n"
+   "name": "Simulating Runoff Under Changing Climatic Conditions: A Framework for\n"
   },
   {
    "group": 15,
-   "name": "Soil water storage, rainfall and runoff relationships in a tropical dry\n"
+   "name": "Numerical Modeling of Injection-Induced Earthquakes Using\n"
   },
   {
    "group": 10,
-   "name": "Heterogeneity-enhanced gas phase formation in shallow aquifers during\n"
+   "name": "Comparing Hydrological Postprocessors Including Ensemble Predictions\n"
   },
   {
    "group": 3,
-   "name": "A two stage Bayesian stochastic optimization model for cascaded\n"
+   "name": "The Relative Influence of Storm and Landscape Characteristics on Shallow\n"
   },
   {
    "group": 23,
-   "name": "Functional approach to exploring climatic and landscape controls on\n"
+   "name": "Friction-Stability-Permeability Evolution of a Fracture in Granite"
   },
   {
    "group": 0,
-   "name": "Pore-scale study of dissolution-induced changes in hydrologic properties\n"
+   "name": "Effect of Runoff Variability and Sea Level on Saltwater Intrusion: A\n"
   },
   {
    "group": 2,
-   "name": "Ecogeomorphic feedbacks and flood loss of riparian tree seedlings in\n"
+   "name": "Rainfall Thresholds for Flow Generation in Desert Ephemeral Streams"
   },
   {
    "group": 6,
-   "name": "An integrated modeling framework for exploring flow regime and water\n"
+   "name": "An Enhanced Pfafstetter Catchment Reference System"
   },
   {
    "group": 15,
-   "name": "The daily mean zero-flux plane during soil-controlled evaporation: A\n"
+   "name": "Settling and Mobilization of Sand-Fiber Proppants in a Deformable\n"
   },
   {
    "group": 0,
-   "name": "Inverse modeling of geochemical and mechanical compaction in sedimentary\n"
+   "name": "Raindrop Size and Flow Depth Control Sediment Sorting in Shallow Flows\n"
   },
   {
    "group": 8,
-   "name": "Root zone salinity and sodicity under seasonal rainfall due to feedback\n"
+   "name": "Decadal Delays in Groundwater Recovery from Nitrate Contamination Caused\n"
   },
   {
    "group": 18,
-   "name": "Model selection on solid ground: Rigorous comparison of nine ways to\n"
+   "name": "GeoFlood: Large-Scale Flood Inundation Mapping Based on High-Resolution\n"
   },
   {
    "group": 2,
-   "name": "Regional frequency analysis conditioned on large-scale atmospheric or\n"
+   "name": "A Clustering Preprocessing Framework for the Subannual Calibration of a\n"
   },
   {
    "group": 7,
-   "name": "Falling head ponded infiltration in the nonlinear limit"
+   "name": "Thermal Attenuation and Lag Time in Fractured Rock: Theory and Field\n"
   },
   {
    "group": 6,
-   "name": "Incorporating spatial dependence in regional frequency analysis"
+   "name": "Impact of Dynamically Changing Discharge on Hyporheic Exchange Processes\n"
   },
   {
    "group": 11,
-   "name": "Improved Bayesian multimodeling: Integration of copulas and Bayesian\n"
+   "name": "A 3-D Semianalytical Solution for Density-Driven Flow in Porous Media"
   },
   {
    "group": 8,
-   "name": "Simultaneous measurement of unfrozen water content and ice content in\n"
+   "name": "Modeling Rainfall-Runoff and Soil Erosion Processes on Hillslopes With\n"
   },
   {
    "group": 1,
-   "name": "Analytical steady-state solutions for water-limited cropping systems\n"
+   "name": "An Advanced Method Based on Surface Renewal Theory to Estimate the\n"
   },
   {
    "group": 6,
-   "name": "Climate change, water rights, and water supply: The case of irrigated\n"
+   "name": "Models of Single-Well Push-Pull Test With Mixing Effect in the Wellbore"
   },
   {
    "group": 3,
-   "name": "Wavelet-based multiscale performance analysis: An approach to assess and\n"
+   "name": "Predicting geogenic Arsenic in Drinking Water Wells in Glacial Aquifers,\n"
   },
   {
    "group": 2,
-   "name": "A simple modeling approach to elucidate the main transport processes and\n"
+   "name": "Multiresolution Large-Eddy Simulation of an Array of Hydrokinetic\n"
   },
   {
    "group": 24,
-   "name": "A new method for analysis of variance of the hydraulic and reactive\n"
+   "name": "Comparing TanDEM-X Data With Frequently Used DEMs for Flood Inundation\n"
   },
   {
    "group": 6,
-   "name": "Comment on ``Capabilities and limitations of tracing spatial temperature\n"
+   "name": "Kinetic Interface Sensitive Tracers: Experimental Validation in a\n"
   },
   {
    "group": 2,
-   "name": "Subsurface lateral preferential flow network revealed by time-lapse\n"
+   "name": "Time-Dependent Pore Filling"
   },
   {
    "group": 7,
-   "name": "The influence of spatially variable stream hydraulics on reach scale\n"
+   "name": "Spatial Variability of Groundwater Arsenic Concentration as Controlled\n"
   },
   {
    "group": 23,
-   "name": "Functional approach to exploring climatic and landscape controls of\n"
+   "name": "Construction of the 500-m Resolution Daily Global Surface Water Change\n"
   },
   {
    "group": 10,
-   "name": "Sensitivity of snowpack storage to precipitation and temperature using\n"
+   "name": "High-Resolution Simulation Study Exploring the Potential of Radars,\n"
   },
   {
    "group": 13,
-   "name": "Heat and mass transport during a groundwater replenishment trial in a\n"
+   "name": "The Importance of Capturing Topographic Features for Modeling\n"
   },
   {
    "group": 24,
-   "name": "Morphodynamics of river-influenced back-barrier tidal basins: The role\n"
+   "name": "Combining Ground-Penetrating Radar With Terrestrial LiDAR Scanning to\n"
   },
   {
    "group": 6,
-   "name": "Retrieval of river discharge solely from satellite imagery and\n"
+   "name": "Confirmation of a Short-Time Expression for the Hydrograph Rising Limb\n"
   },
   {
    "group": 15,
-   "name": "An error analysis of the Budyko hypothesis for assessing the\n"
+   "name": "Automatic Image-Based Water Stage Measurement for Long-Term Observations\n"
   },
   {
    "group": 1,
-   "name": "Integration of altimetric lake levels and GRACE gravimetry over Africa:\n"
+   "name": "A New Global Storage-Area-Depth Data Set for Modeling Reservoirs in Land\n"
   },
   {
    "group": 10,
-   "name": "Modeling and mitigating natural hazards: Stationarity is immortal!"
+   "name": "If Precipitation Extremes Are Increasing, Why Aren't Floods?"
   },
   {
    "group": 4,
-   "name": "A modified Holly-Preissmann scheme for simulating sharp concentration\n"
+   "name": "Fiber-Optic Sensing for Environmental Applications: Where We Have Come\n"
   },
   {
    "group": 10,
-   "name": "Reply to comment by Francisco Suarez on ``Capabilities and limitations\n"
+   "name": "A Transdisciplinary Review of Deep Learning Research and Its Relevance\n"
   },
   {
    "group": 13,
-   "name": "Quantitative generalizations for catchment sediment yield following\n"
+   "name": "What Did Really Improve Our Mesoscale Hydrological Model? A\n"
   },
   {
    "group": 6,
-   "name": "Organizing groundwater regimes and response thresholds by soils: A\n"
+   "name": "Effects of Forest Roads on Runoff Initiation in Low-Order Ephemeral\n"
   },
   {
    "group": 23,
-   "name": "Pore scale dynamics underlying the motion of drainage fronts in porous\n"
+   "name": "Fusion of Hydraulic Tomography and Displacement Back Analysis for\n"
   },
   {
    "group": 21,
-   "name": "Hybrid modeling and receding horizon control of sewer networks"
+   "name": "Estimation of Specific Yield and its Variability by Electrical\n"
   },
   {
    "group": 2,
-   "name": "The concept of dual-boundary forcing in land surface-subsurface\n"
+   "name": "Diffusive Regimes of the Motion of Bed Load Particles in Open Channel\n"
   },
   {
    "group": 11,
-   "name": "Analytical approximation for the recession of a sloping aquifer"
+   "name": "Revisiting the Basis of Sensitivity Analysis for Dynamical Earth System\n"
   },
   {
    "group": 10,
-   "name": "Filling in the gaps: Inferring spatially distributed precipitation from\n"
+   "name": "No Direct Linkage Between Event-Based Runoff Generation and Groundwater\n"
   },
   {
    "group": 6,
-   "name": "Modeling the effect of rainfall intensity on soil-water nutrient\n"
+   "name": "Relationship Between the Orientation of Maximum Permeability and\n"
   },
   {
    "group": 24,
-   "name": "A parameter estimation framework for Multiscale Kalman Smoother\n"
+   "name": "Snow Depth Variability at the Forest Edge in Multiple Climates in the\n"
   },
   {
    "group": 7,
-   "name": "Relationships between stream nitrate concentration and spatially\n"
+   "name": "Incorporating Antecedent Moisture Conditions and Intraevent Variability\n"
   },
   {
    "group": 2,
-   "name": "Stochastic temporal disaggregation of monthly precipitation for regional\n"
+   "name": "A Ranking of Hydrological Signatures Based on Their Predictability in\n"
   },
   {
    "group": 4,
-   "name": "Accuracy of satellite rainfall estimates in the Blue Nile Basin: Lowland\n"
+   "name": "Salinity Management in the Murray-Darling Basin: A Transaction Cost\n"
   },
   {
    "group": 15,
-   "name": "Multisensor earth observations to characterize wetlands and malaria\n"
+   "name": "Passive Recovery of Wood Loads in Rivers"
   },
   {
    "group": 8,
-   "name": "Lattice Boltzmann methods applied to large-scale three-dimensional\n"
+   "name": "Aquifer Recharge Using a Vadose Zone Infiltration Well"
   },
   {
    "group": 15,
-   "name": "Wind-driven nearshore sediment resuspension in a deep lake during winter"
+   "name": "Identifying Driving Factors in Flood-Damaging Processes Using Graphical\n"
   },
   {
    "group": 15,
-   "name": "The pronounced seasonality of global groundwater recharge"
+   "name": "Estimating the Economic Value of Interannual Reservoir Storage in Water\n"
   },
   {
    "group": 19,
-   "name": "Dynamic aspects of soil water availability for isohydric plants: Focus\n"
+   "name": "Groundwater Is Key to Salmonid Persistence and Recruitment in\n"
   },
   {
    "group": 23,
-   "name": "Statistical emulation of streamflow projections from a distributed\n"
+   "name": "Performance of Different Ensemble Kalman Filter Structures to Assimilate\n"
   },
   {
    "group": 23,
-   "name": "A climate change range-based method for estimating robustness for water\n"
+   "name": "Application of the Beer-Lambert Model to Attenuation of\n"
   },
   {
    "group": 0,
-   "name": "Parameterization of mires in a numerical weather prediction model"
+   "name": "Experimental Testing Scale Considerations for the Investigation of\n"
   },
   {
    "group": 7,
-   "name": "Channel evolution after dam removal in a poorly sorted sediment mixture:\n"
+   "name": "The Impact of Rainfall Space-Time Structure in Flood Frequency Analysis"
   },
   {
    "group": 0,
-   "name": "Effects of grain angularity on NaCl precipitation in porous media during\n"
+   "name": "When Should Irrigators Invest in More Water-Efficient Technologies as an\n"
   },
   {
    "group": 21,
-   "name": "Controls on mixing-dependent denitrification in hyporheic zones induced\n"
+   "name": "Efficient Prediction of Multidomain Flow and Transport in Hierarchically\n"
   },
   {
    "group": 9,
-   "name": "Fine-suspended sediment and water budgets for a large, seasonally dry\n"
+   "name": "Description of Free Energy for Immiscible Two-Fluid Flow in Porous Media\n"
   },
   {
    "group": 6,
-   "name": "Comparison of passive microwave and modeled estimates of total watershed\n"
+   "name": "Floodplain Backwater Effect on Overtopping Induced Fluvial Dike Failure"
   },
   {
    "group": 1,
-   "name": "Impact of biofilm-induced heterogeneities on solute transport in porous\n"
+   "name": "Hydrologic Observation, Model, and Theory Congruence on\n"
   },
   {
    "group": 2,
-   "name": "Comment on ``Assessing invertebrate assemblages in the subsurface zone\n"
+   "name": "Experimental and Numerical Study of Evaporation From Wavy Surfaces by\n"
   },
   {
    "group": 13,
-   "name": "Reply to comment by James W. Roy and Serban Danielescu on ``Assessing\n"
+   "name": "Seasonal Precipitation Forecast Over Morocco"
   },
   {
    "group": 2,
-   "name": "Coupled estimation of surface heat fluxes and vegetation dynamics from\n"
+   "name": "Water Source Signatures in the Spatial and Seasonal Isotope Variation of\n"
   },
   {
    "group": 17,
-   "name": "Sensitivity of reference evapotranspiration to changes in meteorological\n"
+   "name": "A Comparative Assessment of the Impact of Climate Change and Energy\n"
   },
   {
    "group": 23,
-   "name": "Multimodel Bayesian analysis of groundwater data worth"
+   "name": "Wetting Behavior of Tight Rocks: From Core Scale to Pore Scale"
   },
   {
    "group": 6,
-   "name": "Spatially variable water table recharge and the hillslope hydrologic\n"
+   "name": "Predicting Bed Shear Stresses in Vegetated Channels"
   },
   {
    "group": 11,
-   "name": "The blue water footprint and land use of biofuels from algae"
+   "name": "Relating Degradation of Pharmaceutical Active Ingredients in a Stream\n"
   },
   {
    "group": 10,
-   "name": "Exploration of discrepancy between radar and gauge rainfall estimates\n"
+   "name": "Exploring Cooperative Transboundary River Management Strategies for the\n"
   },
   {
    "group": 6,
-   "name": "Understanding the hydrologic sources and sinks in the Nile Basin using\n"
+   "name": "Estimating the Permeability of Naturally Structured Soil From\n"
   },
   {
    "group": 15,
-   "name": "Enhancement of rainfall and runoff upstream from irrigation location in\n"
+   "name": "Development of a Fully Coupled Biogeochemical Reactive Transport Model\n"
   },
   {
    "group": 6,
-   "name": "Probabilistic collocation method for strongly nonlinear problems: 2.\n"
+   "name": "Effects of Fine-Scale Surface Alterations on Tracer Retention in a\n"
   },
   {
    "group": 5,
-   "name": "Pore-by-pore capillary pressure measurements using X-ray microtomography\n"
+   "name": "Modeling Macroroughness Contribution to Fish Habitat Suitability Curves"
   },
   {
    "group": 9,
-   "name": "Influence of the sediment supply texture on morphological adjustments in\n"
+   "name": "A General Methodology for Climate-Informed Approaches to Long-Term Flood\n"
   },
   {
    "group": 1,
-   "name": "Monitoring reservoir storage in South Asia from multisatellite remote\n"
+   "name": "Simulating Flood-Induced Riverbed Transience Using Unmanned Aerial\n"
   },
   {
    "group": 15,
-   "name": "Assimilation of SMOS-derived soil moisture in a fully integrated\n"
+   "name": "Synergies for Soil Moisture Retrieval Across Scales From Airborne\n"
   },
   {
    "group": 1,
-   "name": "Sensitivity of fluvial sediment source apportionment to mixing model\n"
+   "name": "Time Compression Approximation Relationship for Infiltration in the\n"
   },
   {
    "group": 0,
-   "name": "Robust changes and sources of uncertainty in the projected hydrological\n"
+   "name": "Method of Distributions for Water Hammer Equations With Uncertain\n"
   },
   {
    "group": 0,
-   "name": "Estimating porosity and solid dielectric permittivity in the Miami\n"
+   "name": "Application of the Generalized Clapeyron Equation to Freezing Point\n"
   },
   {
    "group": 2,
-   "name": "Bayesian inference of a lake water quality model by emulating its\n"
+   "name": "The Fast and the Robust: Trade-Offs Between Optimization Robustness and\n"
   },
   {
    "group": 17,
-   "name": "A novel infrastructure modularity index for the segmentation of water\n"
+   "name": "Disaggregating Soil Moisture to Finer Spatial Resolutions: A Comparison\n"
   },
   {
    "group": 3,
-   "name": "Spatiotemporal variation of long-term drought propensity through\n"
+   "name": "Simulation of Stochastic Processes Exhibiting Any-Range Dependence and\n"
   },
   {
    "group": 16,
-   "name": "Effect of hydrophobicity on colloid transport during two-phase flow in a\n"
+   "name": "Physical and Chemical Controls on the Simultaneous Occurrence of Young\n"
   },
   {
    "group": 1,
-   "name": "A dynamic watershed model for determining the effects of transient\n"
+   "name": "Effect of Elastic Deformation and Rough Grain Surface on Heat Conduction\n"
   },
   {
    "group": 7,
-   "name": "Parameterization of training images for aquifer 3-D facies modeling\n"
+   "name": "Hydrological Drought Instantaneous Propagation Speed Based on the\n"
   },
   {
    "group": 8,
-   "name": "Fully integrated modeling of surface-subsurface solute transport and the\n"
+   "name": "Conditional Causal Mediation Analysis of Factors Associated With Cover\n"
   },
   {
    "group": 0,
-   "name": "With or against the tide: The influence of bed form asymmetry on the\n"
+   "name": "Convective-Reactive CO2 Dissolution in Aquifers With Mass Transfer With\n"
   },
   {
    "group": 6,
-   "name": "Assimilation of point SWE data into a distributed snow cover model\n"
+   "name": "New Semi-Analytical Insights Into Stress-Dependent Spontaneous\n"
   },
   {
    "group": 6,
-   "name": "A hidden Markov model combined with climate indices for multidecadal\n"
+   "name": "Reservoir Effects on Flood Peak Discharge at the Catchment Scale"
   },
   {
    "group": 6,
-   "name": "A drought index accounting for snow"
+   "name": "A Robust Gauss-Newton Algorithm for the Optimization of Hydrological\n"
   },
   {
    "group": 24,
-   "name": "Relating soil specific surface area, water film thickness, and water\n"
+   "name": "A Robust Gauss-Newton Algorithm for the Optimization of Hydrological\n"
   },
   {
    "group": 11,
-   "name": "Spatial periodicity in bed form-scale solute and thermal transport\n"
+   "name": "Predicting Downstream Concentration Histories From Upstream Data in\n"
   },
   {
    "group": 21,
-   "name": "Physical context for theoretical approaches to sediment transport\n"
+   "name": "An Automatic Snow Depth Probe for Field Validation Campaigns"
   },
   {
    "group": 8,
-   "name": "A new formulation for steady multiaquifer flow: An analytic element for\n"
+   "name": "Comment on ``Application of Analytical Diffusion Models to Outcrop\n"
   },
   {
    "group": 23,
-   "name": "Exact versus Dupuit interface flow in anisotropic coastal aquifers"
+   "name": "Reply to Comment by Trinchero et al. on ``Application of Analytical\n"
   },
   {
    "group": 17,
-   "name": "Coupling ground and airborne geophysical data with upscaling techniques\n"
+   "name": "Appreciation for Water Resources Research Reviewers"
   },
   {
    "group": 8,
-   "name": "Willingness to pay and willingness to work for improvements of municipal\n"
+   "name": "A Comparison of Methods for Streamflow Uncertainty Estimation"
   },
   {
    "group": 23,
-   "name": "Improving the surface-ground water interactions in the Community Land\n"
+   "name": "Vulnerability to Flash Floods: A Simplified Structural Model for Masonry\n"
   },
   {
    "group": 7,
-   "name": "Patterns of local and nonlocal water resource use across the western US\n"
+   "name": "Simplified Physically Based Models for Pressurized Flow in Karst Systems"
   },
   {
    "group": 2,
-   "name": "Sensitivity of power functions to aggregation: Bias and uncertainty in\n"
+   "name": "Wildfire Smoke Cools Summer River and Stream Water Temperatures"
   },
   {
    "group": 7,
-   "name": "Use of an entropy-based metric in multiobjective calibration to improve\n"
+   "name": "Decision-Making and Flood Risk Uncertainty: Statistical Data Set\n"
   },
   {
    "group": 21,
-   "name": "Numerical study of evaporation-induced salt accumulation and\n"
+   "name": "Quantifying Climatic Controls on River Network Branching Structure\n"
   },
   {
    "group": 15,
-   "name": "Spatially implemented Bayesian network model to assess environmental\n"
+   "name": "Drought Conditions Maximize the Impact of High-Frequency Flow Variations\n"
   },
   {
    "group": 12,
-   "name": "Micromodel study of two-phase flow under transient conditions:\n"
+   "name": "Cosmic Ray Neutron Sensing for Simultaneous Soil Water Content and\n"
   },
   {
    "group": 17,
-   "name": "Runoff sources and flow paths in a partially burned, upland boreal\n"
+   "name": "Hydrological Interpretation of a Statistical Measure of Basin Complexity"
   },
   {
    "group": 1,
-   "name": "Combining the bulk transfer formulation and surface renewal analysis for\n"
+   "name": "Integrated Bayesian Estimation of Intensity-Duration-Frequency Curves:\n"
   },
   {
    "group": 6,
-   "name": "A dynamical system model of eco-geomorphic response to landslide\n"
+   "name": "Identifying Wetland Consolidation Using Remote Sensing in the North\n"
   },
   {
    "group": 6,
-   "name": "Freshwater lenses as archive of climate, groundwater recharge, and\n"
+   "name": "Climate Controls on Runoff and Low Flows in Mountain Catchments of\n"
   },
   {
    "group": 17,
-   "name": "Solute transport in low-heterogeneity sandboxes: The role of correlation\n"
+   "name": "A Continental-Scale Hydroeconomic Model for Integrating\n"
   },
   {
    "group": 0,
-   "name": "Storm-event flow pathways in lower coastal plain forested watersheds of\n"
+   "name": "The Nexus of Water, Ecosystems, and Agriculture in Endorheic River\n"
   },
   {
    "group": 24,
-   "name": "Why do households invest in sanitation in rural Benin: Health, wealth,\n"
+   "name": "A Statistical Approach to Mapping Flood Susceptibility in the Lower\n"
   },
   {
    "group": 17,
-   "name": "Nonlinear time-series modeling of unconfined groundwater head"
+   "name": "Flow, Flux, and Feeding n Freshwater Mussels"
   },
   {
    "group": 14,
-   "name": "Evolving many-objective water management to exploit exascale computing"
+   "name": "Evaporation From Layered Porous Medium in the Presence of Infrared\n"
   },
   {
    "group": 15,
-   "name": "USDA-ARS Riesel Watersheds, Riesel, Texas, USA: Water quality research\n"
+   "name": "Exploring Controls on Rainfall-Runoff Events: 2. Regional Patterns and\n"
   },
   {
    "group": 6,
-   "name": "Mathematical analysis of the Saint-Venant-Hirano model for\n"
+   "name": "Exploring Controls on Rainfall-Runoff Events: 1. Time Series- Based\n"
   },
   {
    "group": 4,
-   "name": "An adaptive ant colony optimization framework for scheduling\n"
+   "name": "Uncertainty Quantification for Subsurface Flow and Transport: Coping\n"
   },
   {
    "group": 21,
-   "name": "Beyond optimality: Multistakeholder robustness tradeoffs for regional\n"
+   "name": "Developing Intensity-Duration-Frequency (IDF) Curves From\n"
   },
   {
    "group": 1,
-   "name": "Quantitative characterization of stream turbidity-discharge behavior\n"
+   "name": "Reconstructing Early Hydrologic Change in the California Delta and its\n"
   },
   {
    "group": 6,
-   "name": "Effects of rainfall spatial variability and intermittency on shallow\n"
+   "name": "The Effect of Global Warming on Future Water Availability: CMIP5\n"
   },
   {
    "group": 2,
-   "name": "Using a Bayesian hierarchical model to improve Lake Erie cyanobacteria\n"
+   "name": "Predicting Runoff Signatures Using Regression and Hydrological Modeling\n"
   },
   {
    "group": 2,
-   "name": "Multiobjective optimization of cluster-scale urban water systems\n"
+   "name": "Implications of Simulating Global Digital Elevation Models for Flood\n"
   },
   {
    "group": 1,
-   "name": "Embedded resource accounting for coupled natural-human systems: An\n"
+   "name": "Nested Scales of Spatial and Temporal Variability of Soil Water Content\n"
   },
   {
    "group": 17,
-   "name": "Lateral subsurface stormflow and solute transport in a forested\n"
+   "name": "LSPIV Measurements of Two-Dimensional Flow Structure in Streams Using\n"
   },
   {
    "group": 15,
-   "name": "Using observations and a distributed hydrologic model to explore runoff\n"
+   "name": "LSPIV Measurements of Two-Dimensional Flow Structure in Streams Using\n"
   },
   {
    "group": 15,
-   "name": "Dual-domain mass-transfer parameters from electrical hysteresis: Theory\n"
+   "name": "Direct Insertion of NASA Airborne Snow Observatory-Derived Snow Depth\n"
   },
   {
    "group": 1,
-   "name": "Use of Be-7 measurements to estimate rates of soil loss from cultivated\n"
+   "name": "Exploring Drivers of Regional Water-Quality Change Using Differential\n"
   },
   {
    "group": 6,
-   "name": "Seeking genericity in the selection of parameter sets: Impact on\n"
+   "name": "Improving Denitrification Models by Including Bacterial and Periphytic\n"
   },
   {
    "group": 22,
-   "name": "Capillary pinning and blunting of immiscible gravity currents in porous\n"
+   "name": "A Comprehensive Framework to Evaluate Hydraulic and Water Quality\n"
   },
   {
    "group": 21,
-   "name": "A new selection metric for multiobjective hydrologic model calibration"
+   "name": "Urban Residential Surface and Subsurface Hydrology: Synergistics Effects\n"
   },
   {
    "group": 13,
-   "name": "Flood forecasting for River Mekong with data-based models"
+   "name": "Exploring Deep Neural Networks to Retrieve Rain and Snow in high\n"
   },
   {
    "group": 15,
-   "name": "Estimation of the distribution of annual runoff from climatic variables\n"
+   "name": "Microscale Analysis of Fractured Rock Sealed With Microbially Induced\n"
   },
   {
    "group": 23,
-   "name": "A blue/green water-based accounting framework for assessment of water\n"
+   "name": "Constraining Conceptual Hydrological Models With Multiple Information\n"
   },
   {
    "group": 7,
-   "name": "Toward efficiency in heterogeneous multispecies reactive transport\n"
+   "name": "Opportunities and Challenges in Computing Fresh Groundwater Discharge to\n"
   },
   {
    "group": 15,
-   "name": "Optimizing the scale of markets for water quality trading"
+   "name": "Household Water Use and Conservation Behavior: A Meta-Analysis"
   },
   {
    "group": 2,
-   "name": "Hydrometric transit times along transects on a steep hillslope"
+   "name": "An Ensemble Optimization Framework for Coupled Design of Hydropower\n"
   },
   {
    "group": 17,
-   "name": "Mapping variability of soil water content and flux across 1-1000 m\n"
+   "name": "Seston Fatty Acid Responses to Physicochemical Changes in Subalpine Lake\n"
   },
   {
    "group": 12,
-   "name": "Potential groundwater age tracer found: Halon-1301 (CF3Br), as\n"
+   "name": "The Influence of Cloudiness on Hydrologic Fluctuations in the Mountains\n"
   },
   {
    "group": 13,
-   "name": "Blind source separation for groundwater pressure analysis based on\n"
+   "name": "Seasonal Wetness, Soil Organic Carbon, and Fire Influence Soil\n"
   },
   {
    "group": 15,
-   "name": "Water-saving impacts of Smart Meter technology: An empirical 5 year,\n"
+   "name": "Aquatic Carbon-Nutrient Dynamics as Emergent Properties of Hydrological,\n"
   },
   {
    "group": 7,
-   "name": "Quantifying storage changes in regional Great Lakes watersheds using a\n"
+   "name": "Dependency and Redundancy: How Information Theory Untangles Three\n"
   },
   {
    "group": 22,
-   "name": "Joint numerical microscale simulations of multiphase flow and NMR\n"
+   "name": "Multiscale Framework for Modeling Multicomponent Reactive Transport in\n"
   },
   {
    "group": 23,
-   "name": "Perirheic mixing and biogeochemical processing in flow-through and\n"
+   "name": "Numerical Simulation of Flow and Suspended Sediment Deposition Within\n"
   },
   {
    "group": 22,
-   "name": "Microbial dispersal in unsaturated porous media: Characteristics of\n"
+   "name": "What Are the Key Catchment Characteristics Affecting Spatial Differences\n"
   },
   {
    "group": 22,
-   "name": "Analytical solutions for stream-aquifer flow exchange under varying head\n"
+   "name": "Real-Time Control of Urban Headwater Catchments Through Linear Feedback:\n"
   },
   {
    "group": 2,
-   "name": "Orienting the camera and firing lasers to enhance large scale particle\n"
+   "name": "Using the Airborne Snow Observatory to Assess Remotely Sensed Snowfall\n"
   },
   {
    "group": 3,
-   "name": "On the mechanism of field-scale solute transport: Insights from\n"
+   "name": "What Makes a First-Magnitude Spring?: Global Sensitivity Analysis of a\n"
   },
   {
    "group": 11,
-   "name": "Water resources management in a homogenizing world: Averting the Growth\n"
+   "name": "Precise Temporal Disaggregation Preserving Marginals and Correlations\n"
   },
   {
    "group": 22,
-   "name": "Comment on ``Traveling wave solution of the Boussinesq equation for\n"
+   "name": "Balancing Flood Rick and Water Supply in California: Policy Search\n"
   },
   {
    "group": 22,
-   "name": "Reply to comment by Jeffrey Olsen et al. on ``Traveling wave solution of\n"
+   "name": "Hydromechanical Impacts of Pleistocene Glaciations on Pore Fluid\n"
   },
   {
    "group": 13,
-   "name": "Comment on ``Simple consistent models for water retention and hydraulic\n"
+   "name": "Responses of Unimpaired Flows, Storage, and Managed Flows to Scenarios\n"
   },
   {
    "group": 22,
-   "name": "Reply to comment by S. Iden and W. Durner on ``Simple consistent models\n"
+   "name": "The Influence of Spatial Variability of Width Functions on Regional Peak\n"
   },
   {
    "group": 3,
-   "name": "Trends in water balance components across the Brazilian Cerrado"
+   "name": "Assessing Climate Change Impact on the Spatial Dependence of Extreme\n"
   },
   {
    "group": 4,
-   "name": "A significant nexus: Geographically isolated wetlands influence\n"
+   "name": "Linear-Circular Statistical Modeling of Lake Ice-Out Dates"
   },
   {
    "group": 8,
-   "name": "An intercomparison of statistical downscaling methods used for water\n"
+   "name": "Spatial Distribution of Channel and Floodplain Large Wood in Forested\n"
   },
   {
    "group": 22,
-   "name": "Assessing the impacts of reservoir operation to floodplain inundation by\n"
+   "name": "Natural and Anthropogenic Controls on Wood Loads in River Corridors of\n"
   },
   {
    "group": 22,
-   "name": "Large lakes as sources and sinks of anthropogenic heat: Capacities and\n"
+   "name": "Snow Depth Structure, Fractal Behavior, and Interannual Consistency Over\n"
   },
   {
    "group": 10,
-   "name": "Process consistency in models: The importance of system signatures,\n"
+   "name": "The Development of Wormholes in Laboratory-Scale Fractures: Perspectives\n"
   },
   {
    "group": 8,
-   "name": "The WFDEI meteorological forcing data set: WATCH Forcing Data\n"
+   "name": "Tidal Response of Groundwater in a Leaky Aquifer-Application to Oklahoma"
   },
   {
    "group": 13,
-   "name": "A vertically integrated model with vertical dynamics for CO2 storage"
+   "name": "In Situ and GRACE-Based Groundwater Observations: Similarities,\n"
   },
   {
    "group": 7,
-   "name": "Characterization of flow parameters and evidence of pore clogging during\n"
+   "name": "Spatially Distributed Conceptual Hydrological Model Building: A Genetic\n"
   },
   {
    "group": 6,
-   "name": "Impact of numerical artifact of the forward model in the inverse\n"
+   "name": "Evaluation of the Generalized and Rescaled Complementary Evaporation\n"
   },
   {
    "group": 6,
-   "name": "Modeling irrigation behavior in groundwater systems"
+   "name": "A Thermally Stratified Reservoir Module for Large-Scale Distributed\n"
   },
   {
    "group": 10,
-   "name": "Behavioral response to contamination risk information in a spatially\n"
+   "name": "The impact of Aquifer Flushing on Groundwater Arsenic Across a 35-Km\n"
   },
   {
    "group": 8,
-   "name": "Inference of reactive transport model parameters using a Bayesian\n"
+   "name": "Global investigation of Soil Moisture and Latent Heat Flux Coupling\n"
   },
   {
    "group": 22,
-   "name": "Assessing the impacts of fiscal reforms on investment in village-level\n"
+   "name": "Combining InSAR and Hydraulic Head Measurements to Estimate Aquifer\n"
   },
   {
    "group": 0,
-   "name": "Epidemiology of urban water distribution systems"
+   "name": "A Quantitative Investigation of the Thresholds for Two Conventional\n"
   },
   {
    "group": 7,
-   "name": "A simple inverse method for the interpretation of pumped flowing fluid\n"
+   "name": "Lagrangian Modeling of Reactive Transport in Heterogeneous Porous Media\n"
   },
   {
    "group": 24,
-   "name": "Nonequilibrium water dynamics in the rhizosphere: How mucilage affects\n"
+   "name": "Quantifying Geophysical Inversion Uncertainty Using Airborne Frequency\n"
   },
   {
    "group": 22,
-   "name": "Comparing vertical profiles of natural tracers in the Williston Basin to\n"
+   "name": "Geochemical Exports to River From the Intrameander Hyporheic Zone Under\n"
   },
   {
    "group": 22,
-   "name": "Modeling spatiotemporal impacts of hydroclimatic extremes on groundwater\n"
+   "name": "A Flexible Temporal Velocity Model for Fast Contaminant Transport\n"
   },
   {
    "group": 18,
-   "name": "Robust, low-cost data loggers for stream temperature, flow\n"
+   "name": "Technical Note: An Operational Implementation of Recursive Digital\n"
   },
   {
    "group": 7,
-   "name": "A semianalytical solution for the Boussinesq equation with\n"
+   "name": "The Threat of Multi-Year Drought in Western Amazonia"
   },
   {
    "group": 18,
-   "name": "Economic analysis of the water demand in the hotels and restaurants\n"
+   "name": "Model-Based Analysis of the Effects of Dam-Induced River Water and\n"
   },
   {
    "group": 2,
-   "name": "Assessing the value of seasonal climate forecast information through an\n"
+   "name": "The Role of Land Cover in the Propagation of Rainfall Into Streamflow\n"
   },
   {
    "group": 2,
-   "name": "Antecedent moisture conditions control mercury and dissolved organic\n"
+   "name": "Natural and Human Influences on the Link Between Meteorological and\n"
   },
   {
    "group": 3,
-   "name": "Hydrogeologic insights for a Devil's Slide-like system"
+   "name": "Stream Runoff and Nitrate Recovery Times After Forest Disturbance in the\n"
   },
   {
    "group": 12,
-   "name": "Local- and field-scale stochastic-advective vertical solute transport in\n"
+   "name": "Self-Potential as a Predictor of Seawater Intrusion in Coastal\n"
   },
   {
    "group": 23,
-   "name": "Reimagining cost recovery in Pakistan's irrigation system through\n"
+   "name": "Separation of Scales in Transpiration Effects on Low Flows: A Spatial\n"
   },
   {
    "group": 9,
-   "name": "Impact of ambient conditions on evaporation from porous media"
+   "name": "Formation, Growth, and Failure of Debris Jams at Bridge Piers"
   },
   {
    "group": 12,
-   "name": "Examining spatial and temporal variability in snow water equivalent\n"
+   "name": "Characterizing and Modeling Seasonality in Extreme Rainfall"
   },
   {
    "group": 17,
-   "name": "Improved regional water management utilizing climate forecasts: An\n"
+   "name": "The Effect of Episodic Sediment Supply on Bedload Variability and\n"
   },
   {
    "group": 24,
-   "name": "Calibration of seawater intrusion models: Inverse parameter estimation\n"
+   "name": "The Efficiency of Data Assimilation"
   },
   {
    "group": 6,
-   "name": "The benefits of using remotely sensed soil moisture in parameter\n"
+   "name": "Estimating Snow Mass in North America Through Assimilation of Advanced\n"
   },
   {
    "group": 13,
-   "name": "Snow depth, density, and SWE estimates derived from GPS reflection data:\n"
+   "name": "Strange Floods: The Upper Tail of Flood Peaks in the United States"
   },
   {
    "group": 9,
-   "name": "Effects of tidal fluctuations on mixing and spreading in coastal\n"
+   "name": "Reactive Transport Modeling of Swelling Processes in Clay-sulfate Rocks"
   },
   {
    "group": 6,
-   "name": "Water banking, conjunctive administration, and drought: The interaction\n"
+   "name": "Estimation and Impact Assessment of Input and Parameter Uncertainty in\n"
   },
   {
    "group": 18,
-   "name": "One-dimensional soil temperature simulation with Common Land Model by\n"
+   "name": "Changes to the Water Balance Over a Century of Urban Development in Two\n"
   },
   {
    "group": 22,
-   "name": "Detection of spatially limited high-porosity layers using crosshole GPR\n"
+   "name": "Ecosystem Responses to Water Resource Developments in a Large Dryland\n"
   },
   {
    "group": 4,
-   "name": "Continuous estimation of baseflow in snowmelt-dominated streams and\n"
+   "name": "Stream Centric Methods for Determining Groundwater Contributions in\n"
   },
   {
    "group": 8,
-   "name": "Hydrologic routing using nonlinear cascaded reservoirs"
+   "name": "On the Causes of Declining Colorado River Streamflows"
   },
   {
    "group": 8,
-   "name": "Life in a fishbowl: Prospects for the endangered Devils Hole pupfish\n"
+   "name": "Ecohydrological Processes Explain Urban Dry Island Effects in a Wet\n"
   },
   {
    "group": 10,
-   "name": "Identifying sampling locations for field-scale soil moisture estimation\n"
+   "name": "A Method for Objectively Integrating Soil Moisture Satellite\n"
   },
   {
    "group": 0,
-   "name": "Oscillatory pumping wells in phreatic, compressible, and homogeneous\n"
+   "name": "The Value of Using Multiple Hydrometeorological Variables to Predict\n"
   },
   {
    "group": 22,
-   "name": "Including adaptation and mitigation responses to climate change in a\n"
+   "name": "A Dynamic Multidomain Green-Ampt Infiltration Model"
   },
   {
    "group": 23,
-   "name": "Extrapolating active layer thickness measurements across Arctic\n"
+   "name": "Bayesian Regional Flood Frequency Analysis for Large Catchments"
   },
   {
    "group": 8,
-   "name": "Single-parameter model of vegetated aquatic flows"
+   "name": "Long-Term Monitoring of Macroinvertebrate Communities Over 2,300 km of\n"
   },
   {
    "group": 24,
-   "name": "Discontinuous Galerkin flood model formulation: Luxury or necessity?"
+   "name": "Imaging and Measurement of Pore-Scale Interfacial Curvature to Determine\n"
   },
   {
    "group": 22,
-   "name": "Bed load fluctuations in a steep channel"
+   "name": "Modeling of Interactions Between Floating Particles and Emergent Stems\n"
   },
   {
    "group": 17,
-   "name": "Using multiple donor sites for enhanced flood estimation in ungauged\n"
+   "name": "Predicting Effective Diffusion Coefficients in Mudrocks Using a Fractal\n"
   },
   {
    "group": 7,
-   "name": "Improving nutrient management practices in agriculture: The role of\n"
+   "name": "Identification of Pollutant Source for Super-Diffusion in Aquifers and\n"
   },
   {
    "group": 3,
-   "name": "Saltwater-freshwater mixing dynamics in a sandy beach aquifer over\n"
+   "name": "Modeling the Effects of Turbulence on Hyporheic Exchange and\n"
   },
   {
    "group": 22,
-   "name": "Approximate Bayesian Computation using Markov Chain Monte Carlo\n"
+   "name": "A Structure Function Model Recovers the Many Formulations for Air-Water\n"
   },
   {
    "group": 24,
-   "name": "Controls on groundwater flow in a semiarid folded and faulted\n"
+   "name": "Interflow Is Not Binary: A Continuous Shallow Perched Layer Does Not\n"
   },
   {
    "group": 8,
-   "name": "Risk-based water resources planning: Incorporating probabilistic\n"
+   "name": "Appropriate Boundary Condition for Dupuit-Boussinesq Theory on the\n"
   },
   {
    "group": 3,
-   "name": "Spatial and diurnal below canopy evaporation in a desert vineyard:\n"
+   "name": "Defining the Effect of Stratification in Coastal Aquifers Using a New\n"
   },
   {
    "group": 4,
-   "name": "Increased evaporation following widespread tree mortality limits\n"
+   "name": "Emergent Macrophyte Root Architecture Controls Subsurface Solute\n"
   },
   {
    "group": 17,
-   "name": "Principal Component Geostatistical Approach for large-dimensional\n"
+   "name": "Monitoring Stray Natural Gas in Groundwater With Dissolved Nitrogen. An\n"
   },
   {
    "group": 2,
-   "name": "Hydrodynamic parameters of a sandy soil determined by ground-penetrating\n"
+   "name": "The Added Value of Assimilating Remotely Sensed Soil Moisture for\n"
   },
   {
    "group": 6,
-   "name": "Analytical optimization of demand management strategies across all urban\n"
+   "name": "Advancing Graph-Based Algorithms for Predicting Flow and Transport in\n"
   },
   {
    "group": 4,
-   "name": "Spatiotemporal flood sensitivity to annual precipitation: Evidence for\n"
+   "name": "US Households' Perception of Drinking Water as Unsafe and its\n"
   },
   {
    "group": 4,
-   "name": "Annual bank and point bar morphodynamics of a meandering river\n"
+   "name": "Water Repellency Decreases Vapor Sorption of Clay Minerals"
   },
   {
    "group": 17,
-   "name": "Catchments as simple dynamical systems: A case study on methods and data\n"
+   "name": "US Urban Water Prices: Cheaper When Drier"
   },
   {
    "group": 6,
-   "name": "Cholera in the Lake Kivu region (DRC): Integrating remote sensing and\n"
+   "name": "Spatial Correlation of Contact Angle and Curvature in Pore-Space Images"
   },
   {
    "group": 7,
-   "name": "Patterns of similarity of seasonal water balances: A window into\n"
+   "name": "A Subgrid Approach for Modeling Microtopography Effects on Overland Flow"
   },
   {
    "group": 13,
-   "name": "Rescuing degrading aquifers in the Central Coastal Plain of North\n"
+   "name": "Using Matching Methods to Estimate Impacts of Wildfire and Postwildfire\n"
   },
   {
    "group": 20,
-   "name": "Modeling biofilm dynamics and hydraulic properties in variably saturated\n"
+   "name": "Glacier Recession and the Response of Summer Streamflow in the Pacific\n"
   },
   {
    "group": 15,
-   "name": "Effects of heterogeneous soil-water diffusivity on vegetation pattern\n"
+   "name": "Data Assimilation in Density-Dependent Subsurface Flows via Localized\n"
   },
   {
    "group": 23,
-   "name": "Solute transport in aquifers of arbitrary variability: A time-domain\n"
+   "name": "Beyond Regime: A Stochastic Model of Floods, Bank Erosion, and Channel\n"
   },
   {
    "group": 6,
-   "name": "On the upscaling of chemical transport in fractured rock"
+   "name": "Comparing Seven Variants of the Ensemble Kalman Filter: How Many\n"
   },
   {
    "group": 4,
-   "name": "Coping with model error in variational data assimilation using optimal\n"
+   "name": "Interaction Between Fluid and Porous Media with Complex Geometries: A\n"
   },
   {
    "group": 22,
-   "name": "Analytical solutions for flow in porous media with multicomponent cation\n"
+   "name": "Regionalization of Groundwater Residence Time Using Metamodeling"
   },
   {
    "group": 4,
-   "name": "Water resources of the Black Sea Basin at high spatial and temporal\n"
+   "name": "Generalizing Agarwal's Method for the Interpretation of Recovery Tests\n"
   },
   {
    "group": 21,
-   "name": "Modeling intersite dependence for regional frequency analysis of extreme\n"
+   "name": "On the Characteristics of Velocities Fields in the Vicinity of Manhole\n"
   },
   {
    "group": 4,
-   "name": "Integrated mathematical modeling of hydrological and hydrodynamic\n"
+   "name": "Water Sector Assumptions for the Shared Socioeconomic Pathways in an\n"
   },
   {
    "group": 6,
-   "name": "A multimodel regression-sampling algorithm for generating rich monthly\n"
+   "name": "Cosmic-ray Neutron Rover Surveys of Field Soil Moisture and the\n"
   },
   {
    "group": 3,
-   "name": "How will increases in rainfall intensity affect semiarid ecosystems?"
+   "name": "Unsurprising Surprises: The Frequency of Record-breaking and\n"
   },
   {
    "group": 0,
-   "name": "Modeling water demand when households have multiple sources of water"
+   "name": "The Impact of Nonequilibrium Flow on the Structure of Turbulence Over\n"
   },
   {
    "group": 17,
-   "name": "A robust multimodel framework for ensemble seasonal hydroclimatic\n"
+   "name": "How Well Does the Mechanistic Water Quality Model CE-QUAL-W2 Represent\n"
   },
   {
    "group": 15,
-   "name": "Interplay of climate seasonality and soil moisture-rainfall feedback"
+   "name": "Modeling Nondilute Species Transport Using the Thermodynamically\n"
   },
   {
    "group": 17,
-   "name": "Topographic controls on shallow groundwater levels in a steep, prealpine\n"
+   "name": "The Impact of Pore-Scale Flow Regimes on Upscaling of Immiscible\n"
   },
   {
    "group": 2,
-   "name": "Soil moisture and soil properties estimation in the Community Land Model\n"
+   "name": "A Diagnostic Framework for Understanding Climatology of Tails of Hourly\n"
   },
   {
    "group": 10,
-   "name": "An entropy-based surface velocity method for estuarine discharge\n"
+   "name": "The Importance of Spatiotemporal Variability in Irrigation Inputs for\n"
   },
   {
    "group": 17,
-   "name": "Scale-dependent energy conservation and its connection to flow field\n"
+   "name": "Alternative Model for Predicting Soil Hydraulic Conductivity Over the\n"
   },
   {
    "group": 3,
-   "name": "Continuous streamflow prediction in ungauged basins: The effects of\n"
+   "name": "The Resazurin-Resorufin System: Insights From a Decade of ``Smart{''}\n"
   },
   {
    "group": 13,
-   "name": "Modeling hydrologic and ecologic responses using a new eco-hydrological\n"
+   "name": "Calculating Trajectories Associated With Solute Transport in a\n"
   },
   {
    "group": 15,
-   "name": "Numerical assessment of potential impacts of hydraulically fractured\n"
+   "name": "Investigation of Kinetic Isotopic Fractionation of Water During Bare\n"
   },
   {
    "group": 3,
-   "name": "Comment on ``A blueprint for process-based modeling of uncertain\n"
+   "name": "Evaluation of Nonparametric and Parametric Statistical Procedures for\n"
   },
   {
    "group": 6,
-   "name": "Reply to comment by Grey Nearing on ``A blueprint for process-based\n"
+   "name": "Connecting Pressure-Saturation and Relative Permeability Models to\n"
   },
   {
    "group": 15,
-   "name": "Optimal plant water-use strategies under stochastic rainfall"
+   "name": "Inside or Outside: Quantifying Extrapolation Across River Networks"
   },
   {
    "group": 6,
-   "name": "Large-scale hydraulic tomography and joint inversion of head and tracer\n"
+   "name": "Streamline Tracing Methods Based on Piecewise Polynomial Pressure\n"
   },
   {
    "group": 13,
-   "name": "The role of tributary relative timing and sequencing in controlling\n"
+   "name": "Multidecadal Trajectory of Riverine Nitrogen and Phosphorus Dynamics in\n"
   },
   {
    "group": 15,
-   "name": "Analytical model for flow duration curves in seasonally dry climates"
+   "name": "Nonstationary Hydrologic Behavior in Forested Watersheds Is Mediated by\n"
   },
   {
    "group": 15,
-   "name": "Absolute versus temporal anomaly and percent of saturation soil moisture\n"
+   "name": "Acidification and Climate Linkages to Increased Dissolved Organic Carbon\n"
   },
   {
    "group": 6,
-   "name": "A diameter-sensitive flow entropy method for reliability consideration\n"
+   "name": "Differential Impacts of Land Use and Precipitation on ``Ecosystem Water\n"
   },
   {
    "group": 6,
-   "name": "Snowpack regimes of the Western United States"
+   "name": "A Lumped Bubble Capacitance Model Controlled by Matrix Structure to\n"
   },
   {
    "group": 10,
-   "name": "Global-scale assessment of groundwater depletion and related groundwater\n"
+   "name": "Paradigm Shifts on Flood Risk Management in Japan: Detecting Triggers of\n"
   },
   {
    "group": 4,
-   "name": "Electrical-hydraulic relationships observed for unconsolidated sediments\n"
+   "name": "Approaches for Estimating Soil Water Retention Curves at Various Bulk\n"
   },
   {
    "group": 6,
-   "name": "The delivery of dissolved organic carbon from a forested hillslope to a\n"
+   "name": "Climate Elasticity of Low Flows in the Maritime Western US Mountains"
   },
   {
    "group": 0,
-   "name": "Systematic assessment of the uncertainty in integrated surface\n"
+   "name": "Six Centuries of Upper Indus Basin Streamflow Variability and Its\n"
   },
   {
    "group": 15,
-   "name": "Derivation of lowland riparian wetland deposit architecture using\n"
+   "name": "Drainage from the Critical Zone: Lithologic Controls on the Persistence\n"
   },
   {
    "group": 15,
-   "name": "A simple and effective method for quantifying spatial anisotropy of time\n"
+   "name": "Multicriteria Optimization Model to Generate on-DEM Optimal Channel\n"
   },
   {
    "group": 18,
-   "name": "Spatial characterization of roughness elements in high-gradient channels\n"
+   "name": "Local and Global Sensitivity Analysis of Cr (VI) Geogenic Leakage Under\n"
   },
   {
    "group": 3,
-   "name": "Optimization of canopy conductance models from concurrent measurements\n"
+   "name": "Insights From Unsteady Flow Analysis of Underdamped Slug Tests in\n"
   },
   {
    "group": 12,
-   "name": "Comparison of effects of inset floodplains and hyporheic exchange\n"
+   "name": "A New Fully Distributed Model of Nitrate Transport and Removal at\n"
   },
   {
    "group": 6,
-   "name": "Accuracy of travel time distribution (TTD) models as affected by TTD\n"
+   "name": "New Observed Data Sets for the Validation of Hydrology and Land Surface\n"
   },
   {
    "group": 9,
-   "name": "Insights into the physical processes controlling correlations between\n"
+   "name": "Impacts of Development Pattern on Urban Groundwater Flow Regime"
   },
   {
    "group": 18,
-   "name": "Bayesian hierarchical approach and geophysical data sets for estimation\n"
+   "name": "Effects of Nutrient Limitations and Watershed Inputs on Community\n"
   },
   {
    "group": 10,
-   "name": "Scaling properties of tidal networks"
+   "name": "Mechanisms of Earthquake-Induced Chemical and Fluid Transport to\n"
   },
   {
    "group": 7,
-   "name": "Application of multiobjective optimization to scheduling capacity\n"
+   "name": "Why Are Some Rocky Mountain Lakes Ephemeral?"
   },
   {
    "group": 1,
-   "name": "A mechanistic modeling and data assimilation framework for Mojave Desert\n"
+   "name": "Identifying Key Water Resource Vulnerabilities in Data-Scarce\n"
   },
   {
    "group": 9,
-   "name": "Individual and coupled influences of AMO and ENSO on regional\n"
+   "name": "Groundwater Withdrawals Under Drought: Reconciling GRACE and Land\n"
   },
   {
    "group": 1,
-   "name": "Inference of permeability heterogeneity from joint inversion of\n"
+   "name": "Mitigating Public Concerns About Recycled Drinking Water: Leveraging the\n"
   },
   {
    "group": 6,
-   "name": "Simulating water markets with transaction costs"
+   "name": "Inert and Adsorptive Tracer Tests for Field Measurement of Flow-Wetted\n"
   },
   {
    "group": 1,
-   "name": "Hydrology and pore water chemistry in a permafrost wetland, Ilulissat,\n"
+   "name": "Promoting Competitive Water Resource Use Efficiency at the Water-Market\n"
   },
   {
    "group": 17,
-   "name": "Transient pore pressure response to confining stress excursions in Berea\n"
+   "name": "An Information Theory Approach to Identifying a Representative Subset of\n"
   },
   {
    "group": 13,
-   "name": "Controls on sediment production from an unpaved resource road in a\n"
+   "name": "Geophysics-Based Contaminant Mass Discharge Quantification Downgradient\n"
   },
   {
    "group": 23,
-   "name": "Deep conduit flow in karst aquifers revisited"
+   "name": "Groundwater Pumping Impacts on Real Stream Networks: Testing the\n"
   },
   {
    "group": 2,
-   "name": "Spatiotemporal relations between water budget components and soil water\n"
+   "name": "Near-Real-Time Assimilation of SAR-Derived Flood Maps for Improving\n"
   },
   {
    "group": 13,
-   "name": "Correlation between groundwater flow and deformation in the fractured\n"
+   "name": "Self-Adaptive Calibration of Real-Time Demand and Roughness of Water\n"
   },
   {
    "group": 23,
-   "name": "What does CloudSat reveal about global land precipitation detection by\n"
+   "name": "Land Use-Dependent Preferential Flow Paths Affect Hydrological Response\n"
   },
   {
    "group": 16,
-   "name": "Navigating financial and supply reliability tradeoffs in regional\n"
+   "name": "Influence of Bed-Load Transport on Flow Resistance of Step-Pool Channels"
   },
   {
    "group": 8,
-   "name": "Reactive transport controls on sandy acid sulfate soils and impacts on\n"
+   "name": "Evapotranspiration Trends (1979-2015) in the Central Valley of\n"
   },
   {
    "group": 16,
-   "name": "Linking groundwater use and stress to specific crops using the\n"
+   "name": "Using Sensor Data to Dynamically Map Large-Scale Models to Site-Scale\n"
   },
   {
    "group": 24,
-   "name": "Increasing life expectancy of water resources literature"
+   "name": "The Origin of Fine Sediment Determines the Observations of Suspended\n"
   },
   {
    "group": 21,
-   "name": "Improving process representation in conceptual hydrological model\n"
+   "name": "Consideration of the Mechanisms for Tidal Bore Formation in an Idealized\n"
   },
   {
    "group": 24,
-   "name": "A practical formulation of snow surface diffusion by wind for\n"
+   "name": "Generating Coherent Ensemble Forecasts After Hydrological\n"
   },
   {
    "group": 0,
-   "name": "Managing flow, sediment, and hydropower regimes in the Sre Pok, Se San,\n"
+   "name": "Copula-Based Chance-Constrained Hydro-Economic Optimization Model for\n"
   },
   {
    "group": 15,
-   "name": "A dynamical system perspective on plant hydraulic failure"
+   "name": "A Global Analysis of Future Water Deficit Based On Different Allocation\n"
   },
   {
    "group": 19,
-   "name": "Moisture profiles of the upper soil layer during evaporation monitored\n"
+   "name": "Analytical Model to Detect Fault Permeability Alteration Induced by\n"
   },
   {
    "group": 0,
-   "name": "Seasonal snowpack characteristics influence soil temperature and water\n"
+   "name": "Estimating Basin-Scale Water Budgets With SMAP Soil Moisture Data"
   },
   {
    "group": 18,
-   "name": "Field testing of the universal calibration function for determination of\n"
+   "name": "The Role of Capillary Hysteresis and Pore-Scale Heterogeneity in\n"
   },
   {
    "group": 22,
-   "name": "A 2000 year natural record of magnitudes and frequencies for the largest\n"
+   "name": "Recharge and Nitrate Transport Through the Deep Vadose Zone of the Loess\n"
   },
   {
    "group": 16,
-   "name": "Seasonal soil moisture patterns: Controlling transit time distributions\n"
+   "name": "Estimating Seasonally Frozen Ground Depth From Historical Climate Data\n"
   },
   {
    "group": 23,
-   "name": "Capillary pressure overshoot for unstable wetting fronts is explained by\n"
+   "name": "Policy Targeting to Reduce Economic Damages From Land Subsidence"
   },
   {
    "group": 2,
-   "name": "Estimation of spatial covariance of log conductivity from particle size\n"
+   "name": "Effects of Drainage and Subsequent Restoration on Peatland Hydrological\n"
   },
   {
    "group": 8,
-   "name": "Jointly deriving NMR surface relaxivity and pore size distributions by\n"
+   "name": "On the Sensitivity of Hillslope Runoff and Channel Transmission Losses\n"
   },
   {
    "group": 6,
-   "name": "A catalog of moisture sources for continental climatic regions"
+   "name": "Transient Groundwater Travel Time Distributions and Age-Ranked\n"
   },
   {
    "group": 7,
-   "name": "Correcting artifacts in transition to a wound optic fiber: Example from\n"
+   "name": "Stratification Effects on Flow Hydrodynamics and Mixing at a Confluence\n"
   },
   {
    "group": 15,
-   "name": "Debates-The future of hydrological sciences: A (common) path forward?\n"
+   "name": "Disconnection Between Trends of Atmospheric Drying and Continental\n"
   },
   {
    "group": 24,
-   "name": "Debates-The future of hydrological sciences: A (common) path forward?\n"
+   "name": "Direct Observations of Hydrologic Exchange Occurring With Less-Mobile\n"
   },
   {
    "group": 9,
-   "name": "Debates-The future of hydrological sciences: A (common) path forward?\n"
+   "name": "The Impact of Landscape Characteristics on Groundwater Dissolved Organic\n"
   },
   {
    "group": 17,
-   "name": "Comment on ``Spatial and temporal phosphorus distribution changes in a\n"
+   "name": "Usefulness of Soil Moisture and Actual Evapotranspiration Data for\n"
   },
   {
    "group": 22,
-   "name": "Reply to comment by John M. Juston et al. on ``Spatial and temporal\n"
+   "name": "A Physically Based Daily Simulation of the Glacier-Dominated Hydrology\n"
   },
   {
    "group": 15,
-   "name": "Comment on ``Capabilities and limitations of tracing spatial temperature\n"
+   "name": "Hyporheic Source and Sink of Nitrous Oxide"
   },
   {
    "group": 0,
-   "name": "Lateral inflows, stream-groundwater exchange, and network geometry\n"
+   "name": "Derivation of a Sigmoid Generalized Complementary Function for\n"
   },
   {
    "group": 18,
-   "name": "Hydraulic and thermal effects of in-stream structure-induced hyporheic\n"
+   "name": "A Quantitative Hydrological Climate Classification Evaluated With\n"
   },
   {
    "group": 19,
-   "name": "Revealed and stated preference valuation and transfer: A within-sample\n"
+   "name": "Groundwater Subsidy From Headwaters to Their Parent Water Watershed: A\n"
   },
   {
    "group": 8,
-   "name": "The concept of field capacity revisited: Defining intrinsic static and\n"
+   "name": "Relative Influence of Landscape Variables and Discharge on Suspended\n"
   },
   {
    "group": 2,
-   "name": "Hydrologic dynamics and geochemical responses within a floodplain\n"
+   "name": "Leveraging Spatial and Temporal Variability to Probabilistically\n"
   },
   {
    "group": 6,
-   "name": "Groundwater flow dynamics and arsenic source characterization in an\n"
+   "name": "On the Use of StorAge Selection Functions to Assess Time-Variant Travel\n"
   },
   {
    "group": 21,
-   "name": "Estimating information entropy for hydrological data: One-dimensional\n"
+   "name": "What Is Nuisance Flooding? Defining and Monitoring an Emerging Challenge"
   },
   {
    "group": 6,
-   "name": "Calibration and correction procedures for cosmic-ray neutron soil\n"
+   "name": "Rapid Modification of Urban Land Surface Temperature During Rainfall"
   },
   {
    "group": 24,
-   "name": "A strategy for diagnosing and interpreting hydrological model\n"
+   "name": "Saving Energy From Urban Water Demand Management"
   },
   {
    "group": 5,
-   "name": "Finite element formulation of unilateral boundary conditions for\n"
+   "name": "New Hypothesis for the Final Equilibrium Stage of a River Levee Breach\n"
   },
   {
    "group": 8,
-   "name": "A novel method for estimating the onset of thermal stratification in\n"
+   "name": "Identification of Hydrobiogeochemical Processes Controlling Seasonal\n"
   },
   {
    "group": 22,
-   "name": "Dams on the Mekong: Cumulative sediment starvation"
+   "name": "Profound Changes in the Physical Environment of Lake Taihu From 25 Years\n"
   },
   {
    "group": 7,
-   "name": "Effect of low-permeability layers on spatial patterns of hyporheic\n"
+   "name": "An Adaptive Multiphysics Model Coupling Vertical Equilibrium and Full\n"
   },
   {
    "group": 0,
-   "name": "Debates-The future of hydrological sciences: A (common) path forward? A\n"
+   "name": "Development of Probabilistic Dam Breach Model Using Bayesian Inference"
   },
   {
    "group": 15,
-   "name": "Reply to comment by J. S. Selker et al. on ``Capabilities and\n"
+   "name": "Probabilistic Forecasting of Nitrogen Dynamics in Hyporheic Zone"
   },
   {
    "group": 9,
-   "name": "Large Rivers in the Anthropocene: Insights and tools for understanding\n"
+   "name": "An Entrogram-Based Approach to Describe Spatial Heterogeneity With\n"
   },
   {
    "group": 6,
-   "name": "An efficient hybrid approach for multiobjective optimization of water\n"
+   "name": "Sustained Groundwater Loss in California's Central Valley Exacerbated by\n"
   },
   {
    "group": 8,
-   "name": "Relative permeability of homogenous-wet and mixed-wet porous media as\n"
+   "name": "Hydroclimatological Drivers of Extreme Floods on Lake Ontario"
   },
   {
    "group": 0,
-   "name": "The variability of vertical structure of precipitation in Huaihe River\n"
+   "name": "Effects of Climate Variability on Snowmelt and Implications for Organic\n"
   },
   {
    "group": 6,
-   "name": "On the analysis of the medium term planform dynamics of meandering\n"
+   "name": "Direct Channel Precipitation and Storm Characteristics Influence\n"
   },
   {
    "group": 6,
-   "name": "A Kalman filter powered by H-2-matrices for quasi-continuous data\n"
+   "name": "Rethinking the Use of Seabed Sediment Temperature Profiles to Trace\n"
   },
   {
    "group": 7,
-   "name": "Detection of changes in hydrologic system memory associated with\n"
+   "name": "Rationale and Efficacy of Assimilating Remotely Sensed Potential\n"
   },
   {
    "group": 16,
-   "name": "What is the minimum river width for the estimation of water clarity\n"
+   "name": "Exploring How Changing Monsoonal Dynamics and Human Pressures Challenge\n"
   },
   {
    "group": 15,
-   "name": "Interaction between neighboring vegetation patches: Impact on flow and\n"
+   "name": "Statistical Interpolation of Groundwater Hydrographs"
   },
   {
    "group": 18,
-   "name": "An integrated economic model of multiple types and uses of water"
+   "name": "A Small Temperate Lake in the 21st Century: Dynamics of Water\n"
   },
   {
    "group": 23,
-   "name": "Semianalytical series solutions for three-dimensional\n"
+   "name": "Development of Multivariable Dynamic System Response Curve Method for\n"
   },
   {
    "group": 6,
-   "name": "Statistical framework to simulate daily rainfall series conditional on\n"
+   "name": "Metamodeling for Groundwater Age Forecasting in the Lake Michigan Basin"
   },
   {
    "group": 23,
-   "name": "Analysis of the impact of surface layer properties on evaporation from\n"
+   "name": "Spatial Patterns of Water Age: Using Young Water Fractions to Improve\n"
   },
   {
    "group": 5,
-   "name": "Joint inversion of aquifer test, MRS, and TEM data"
+   "name": "Evaporation From Deep Aquifers in Arid Regions: Analytical Model for\n"
   },
   {
    "group": 6,
-   "name": "Stochastic calibration and learning in nonstationary hydroeconomic\n"
+   "name": "Simulation and Assimilation of Passive Microwave Data Using a Snowpack\n"
   },
   {
    "group": 0,
-   "name": "The vertical variability of hyporheic fluxes inferred from riverbed\n"
+   "name": "Including Farmer Irrigation Behavior in a Sociohydrological Modeling\n"
   },
   {
    "group": 7,
-   "name": "First-order based cumulative distribution function for solute\n"
+   "name": "Inverse Modeling of Hydrologic Systems with Adaptive Multifidelity\n"
   },
   {
    "group": 11,
-   "name": "Global-scale analysis on future changes in flow regimes using Gini and\n"
+   "name": "A River Channel Extraction Method for Urban Environments Based on\n"
   },
   {
    "group": 7,
-   "name": "Groundwater flow to a pumping well in a sloping fault zone unconfined\n"
+   "name": "Distributed Plant Hydraulic and Hydrological Modeling to Understand the\n"
   },
   {
    "group": 3,
-   "name": "Development of an integrated modeling approach for identifying\n"
+   "name": "Information-Theoretic Approach to Bidirectional Scaling"
   },
   {
    "group": 13,
-   "name": "IDA: An implicit, parallelizable method for calculating drainage area"
+   "name": "Nonparametric Data Assimilation Scheme for Land Hydrological\n"
   },
   {
    "group": 7,
-   "name": "The terms of turbulent kinetic energy budget within random arrays of\n"
+   "name": "DEM Resolution Effects on Coastal Flood Vulnerability Assessment:\n"
   },
   {
    "group": 15,
-   "name": "Modeling substrate-bacteria-grazer interactions coupled to substrate\n"
+   "name": "Experimental and Modeling Study of Methane Adsorption onto Partially\n"
   },
   {
    "group": 7,
-   "name": "CO2 injectivity in saline aquifers: The impact of non-Darcy flow, phase\n"
+   "name": "Assessing the Potential Robustness of Conceptual Rainfall-Runoff Models\n"
   },
   {
    "group": 18,
-   "name": "Valuing water quality in urban watersheds: A comparative analysis of\n"
+   "name": "Real-Options Water Supply Planning: Multistage Scenario Trees for\n"
   },
   {
    "group": 2,
-   "name": "Precipitation isotopes link regional climate patterns to water supply in\n"
+   "name": "Regional Extreme Precipitation Events: Robust Inference From Credibly\n"
   },
   {
    "group": 0,
-   "name": "Impact evaluation of the irrigation management reform in northern China"
+   "name": "Quantifying and Mitigating Wind-Induced Undercatch in Rainfall\n"
   },
   {
    "group": 6,
-   "name": "Stochastic modeling of fine particulate organic carbon dynamics in\n"
+   "name": "Evaporation Dynamics and NaCl Precipitation on Capillarity-Coupled\n"
   },
   {
    "group": 21,
-   "name": "Finite volume hydromechanical simulation in porous media"
+   "name": "Reconciling the Attribution of Changes in Streamflow Extremes From a\n"
   },
   {
    "group": 6,
-   "name": "An equivalent cross-sectional basis for semidistributed hydrological\n"
+   "name": "Stream Dissolved Organic Matter Composition Reflects the Riparian Zone,\n"
   },
   {
    "group": 15,
-   "name": "Effective discharge in small formerly glaciated mountain streams of\n"
+   "name": "Contrasting Groundwater and Streamflow Ages at the Maimai Watershed"
   },
   {
    "group": 15,
-   "name": "Estimating temporal changes in hydraulic head using InSAR data in the\n"
+   "name": "Interpretation of Heat-Pulse Tracer Tests for Characterization of\n"
   },
   {
    "group": 6,
-   "name": "Nebraska's groundwater legacy: Nitrate contamination beneath irrigated\n"
+   "name": "A New Machine-Learning Approach for Classifying Hysteresis in\n"
   },
   {
    "group": 17,
-   "name": "Quantification of capillary trapping of gas clusters using X-ray\n"
+   "name": "Stochastic Rainfall Modeling at Sub-kilometer Scale"
   },
   {
    "group": 17,
-   "name": "Flume testing of underwater seep detection using temperature sensing on\n"
+   "name": "Pore Geometry Characterization by Persistent Homology Theory"
   },
   {
    "group": 7,
-   "name": "Oceanic sources of continental precipitation"
+   "name": "Spatial-Temporal Patterns of Evapotranspiration Along an Elevation\n"
   },
   {
    "group": 6,
-   "name": "Active-Distributed Temperature Sensing to continuously quantify vertical\n"
+   "name": "Dynamic Pore-Scale Model of Drainage in Granular Porous Media: The\n"
   },
   {
    "group": 6,
-   "name": "Coupled multiphase flow and poromechanics: A computational model of pore\n"
+   "name": "Modeling the Irrigation Withdrawals Over the Coterminous US Using a\n"
   },
   {
    "group": 15,
-   "name": "A network-based framework for identifying potential synchronizations and\n"
+   "name": "Geophysical Measurements to Determine the Hydrologic Partitioning of\n"
   },
   {
    "group": 7,
-   "name": "Seasonal evolution of ecohydrological controls on land surface\n"
+   "name": "Nutrient Loss Rates in Relation to Transport Time Scales in a Large\n"
   },
   {
    "group": 8,
-   "name": "A fast nonparametric spatio-temporal regression scheme for generalized\n"
+   "name": "Impact of Spatially Variable Collision Efficiency on the Transport of\n"
   },
   {
    "group": 15,
-   "name": "Quantifying the influence of deep soil moisture on ecosystem albedo: The\n"
+   "name": "Sensitivity of Probable Maximum Flood in a Changing Environment"
   },
   {
    "group": 16,
-   "name": "Improved flow velocity estimates from moving-boat ADCP measurements"
+   "name": "Signature-Domain Calibration of Hydrological Models Using Approximate\n"
   },
   {
    "group": 6,
-   "name": "A multimodel data assimilation framework via the ensemble Kalman filter"
+   "name": "Time-Varying Storage-Water Age Relationships in a Catchment With a\n"
   },
   {
    "group": 4,
-   "name": "A 3-D hydrologic transport model of a water recharge system using\n"
+   "name": "Impact of Hydraulic Redistribution on Multispecies Vegetation Water Use\n"
   },
   {
    "group": 6,
-   "name": "Uncertainty compliant design flood estimation"
+   "name": "Signature-Domain Calibration of Hydrological Models Using Approximate\n"
   },
   {
    "group": 22,
-   "name": "Calculation of wastewater effluent leakage to pristine water sources by\n"
+   "name": "Modeling Sedimentation Dynamics of Sediment-Laden River Intrusions in a\n"
   },
   {
    "group": 1,
-   "name": "Objective extraction of channel heads from high-resolution topographic\n"
+   "name": "Hyporheic Exchange Driven by Three-Dimensional Sandy Bed Forms:\n"
   },
   {
    "group": 15,
-   "name": "Imaging and quantification of preferential solute transport in soil\n"
+   "name": "Reconstructing Depth-Averaged Open-Channel Flows Using Image Velocimetry\n"
   },
   {
    "group": 11,
-   "name": "Assessment of parametric uncertainty for groundwater reactive transport\n"
+   "name": "Turbulence Links Momentum and Solute Exchange in Coarse-Grained\n"
   },
   {
    "group": 23,
-   "name": "Floodplain ecohydrology: Climatic, anthropogenic, and local physical\n"
+   "name": "Salt Dynamics in Coastal Marshes: Formation of Hypersaline Zones"
   },
   {
    "group": 6,
-   "name": "Ecosystem services: Challenges and opportunities for hydrologic modeling\n"
+   "name": "The Total Drainable Water Storage of the Amazon River Basin: A First\n"
   },
   {
    "group": 2,
-   "name": "Water Resources Research in 2013"
+   "name": "An Analytical Stochastic Approach for Evaluating the Performance of\n"
   },
   {
    "group": 3,
-   "name": "On the future of journal publications in hydrology"
+   "name": "On Permeability Prediction From Complex Conductivity Measurements Using\n"
   },
   {
    "group": 6,
-   "name": "River- aquifer interactions in a semiarid environment investigated using\n"
+   "name": "Quantifying Ground Deformation in the Los Angeles and Santa Ana Coastal\n"
   },
   {
    "group": 4,
-   "name": "Interactions between flow structure and morphodynamic of bars in a\n"
+   "name": "Pore-Scale Experimental Investigation of Two-Phase Flow Through\n"
   },
   {
    "group": 18,
-   "name": "Contribution of impervious surfaces to urban evaporation"
+   "name": "A Modeling Study of Direct and Indirect N2O Emissions From a\n"
   },
   {
    "group": 6,
-   "name": "Theory of transient streaming potentials in coupled unconfined aquifer-\n"
+   "name": "Plant Growth-Promoting Rhizobacteria (PGPR) Reduce Evaporation and\n"
   },
   {
    "group": 24,
-   "name": "Root- zone soil moisture estimation using data- driven methods"
+   "name": "Regional and Temporal Transferability of Multivariable Flood Damage\n"
   },
   {
    "group": 15,
-   "name": "Dual role of salt marsh retreat: Long- term loss and short- term\n"
+   "name": "Riverine Bathymetry Imaging With Indirect Observations"
   },
   {
    "group": 6,
-   "name": "On modeling the paleohydrologic response of closed- basin lakes to\n"
+   "name": "Dispersion and Mixing in Three-Dimensional Discrete Fracture Networks:\n"
   },
   {
    "group": 18,
-   "name": "Multiple hydrological attractors under stochastic daily forcing: 1. Can\n"
+   "name": "Experimental and Theoretical Evidence for Increased Ganglion Dynamics\n"
   },
   {
    "group": 24,
-   "name": "Multiple hydrological attractors under stochastic daily forcing: 2. Can\n"
+   "name": "Toward the Prediction of Bed Load Rating Curve Parameter Values: The\n"
   },
   {
    "group": 24,
-   "name": "Assessing the recent droughts in Southwestern China using satellite\n"
+   "name": "Assessment of Hydraulic Connectivity of Fractures in Mudstones by\n"
   },
   {
    "group": 0,
-   "name": "Effects of substrate on cracking patterns and dynamics in desiccating\n"
+   "name": "Temporal Markov Processes for Transport in Porous Media: Random Lattice\n"
   },
   {
    "group": 10,
-   "name": "Salinity effects on cracking morphology and dynamics in 3-D desiccating\n"
+   "name": "Improved Rainfall-Runoff Calibration for Drying Climate: Choice of\n"
   },
   {
    "group": 6,
-   "name": "Modeling maximum daily temperature using a varying coefficient\n"
+   "name": "Bridging Thermal Infrared Sensing and Physically-Based\n"
   },
   {
    "group": 23,
-   "name": "Reliable probabilistic forecasts from an ensemble reservoir inflow\n"
+   "name": "A Stakeholder-Science Based Approach Using the National Urban Water\n"
   },
   {
    "group": 0,
-   "name": "Accelerated lake expansion on the Tibetan Plateau in the 2000s: Induced\n"
+   "name": "Conjoint Analysis of Surface and Atmospheric Water Balances in the\n"
   },
   {
    "group": 8,
-   "name": "Daily evaporation from drying soil: Universal parameterization with\n"
+   "name": "A Unified Approach to Bed Load Transport Description Over a Wide Range\n"
   },
   {
    "group": 24,
-   "name": "A modified weighted function method for parameter estimation of Pearson\n"
+   "name": "Drivers of Variability in Atmospheric Evaporative Demand: Multiscale\n"
   },
   {
    "group": 20,
-   "name": "Climate change impacts on the temperature and magnitude of groundwater\n"
+   "name": "Experimental Investigation of Three-Dimensional Flow Structure and\n"
   },
   {
    "group": 17,
-   "name": "Regional flood frequency analysis using kernel- based fuzzy clustering\n"
+   "name": "Can MODIS Land Reflectance Products be Used for Estuarine and Inland\n"
   },
   {
    "group": 15,
-   "name": "Internal variability and model uncertainty components in future\n"
+   "name": "Hydrography-Driven Coarsening of Grid Digital Elevation Models"
   },
   {
    "group": 17,
-   "name": "The effect of trees on preferential flow and soil infiltrability in an\n"
+   "name": "The Influence of Urban Development Patterns on Streamflow\n"
   },
   {
    "group": 22,
-   "name": "Use of land surface temperature to estimate surface energy fluxes:\n"
+   "name": "Extracting Hydrocarbon From Shale: An Investigation of the Factors That\n"
   },
   {
    "group": 15,
-   "name": "Characterization of runoff- storage relationships by satellite\n"
+   "name": "Efficient Monte Carlo With Graph-Based Subsurface Flow and Transport\n"
   },
   {
    "group": 3,
-   "name": "Developing a consistent process- based conceptualization of catchment\n"
+   "name": "Inspiring a Broader Socio-Hydrological Negotiation Approach With\n"
   },
   {
    "group": 6,
-   "name": "Hydraulic conductivity field characterization from the joint inversion\n"
+   "name": "How Does Snow Persistence Relate to Annual Streamflow in Mountain\n"
   },
   {
    "group": 22,
-   "name": "Effect of soil properties on peat erosion and suspended sediment\n"
+   "name": "On the Sensitivity of Annual Streamflow to Air Temperature"
   },
   {
    "group": 15,
-   "name": "Analytical solutions for two- phase subsurface flow to a leaky fault\n"
+   "name": "Effects of Flood Control Strategies on Flood Resilience Under\n"
   },
   {
    "group": 17,
-   "name": "Cauchy data requirement of the inverse problem of the mean age equation"
+   "name": "Riverbed Hydrologic Exchange Dynamics in a Large Regulated River Reach"
   },
   {
    "group": 1,
-   "name": "Altitudinal gradients, midwinter melt, and wind effects on snow\n"
+   "name": "Permeability Estimation Directly From Logging-While-Drilling Induced\n"
   },
   {
    "group": 7,
-   "name": "Equivalence of the time and Laplace domain solutions for the steady\n"
+   "name": "Downscaling-Based Segmentation for Unresolved Images of Highly\n"
   },
   {
    "group": 6,
-   "name": "Quantile regression for investigating scaling of extreme precipitation\n"
+   "name": "Uncertainty Quantification of Medium-Term Heat Storage From Short-Term\n"
   },
   {
    "group": 7,
-   "name": "Machine learning and linear regression models to predict catchment-\n"
+   "name": "Using In-Situ Optical Sensors to Understand the Biogeochemistry of\n"
   },
   {
    "group": 7,
-   "name": "A simple approach to the evaluation of the actual water renewal time of\n"
+   "name": "Methane Leakage From Hydrocarbon Wellbores into Overlying Groundwater:\n"
   },
   {
    "group": 8,
-   "name": "Role of extreme snowfall events in interannual variability of snowfall\n"
+   "name": "A Two-Phase Model for Trade Matching and Price Setting in Double Auction\n"
   },
   {
    "group": 4,
-   "name": "Hydrologic controls on basin- scale distribution of benthic\n"
+   "name": "Benefits and Limitations of Real Options Analysis for the Practice of\n"
   },
   {
    "group": 10,
-   "name": "Simulation of Earth textures by conditional image quilting"
+   "name": "Quantifying Climate-Related Interactions in Shallow and Deep Storage and\n"
   },
   {
    "group": 8,
-   "name": "Joint estimation of soil moisture profile and hydraulic parameters by\n"
+   "name": "Sociohydrological Impacts of Water Conservation Under Anthropogenic\n"
   },
   {
    "group": 6,
-   "name": "Transition probability- based stochastic geological modeling using\n"
+   "name": "Water Flux Tracking With a Distributed Hydrological Model to Quantify\n"
   },
   {
    "group": 6,
-   "name": "Comparison of upscaled models for multistage mass discharge from DNAPL\n"
+   "name": "Characterizing Drainage Multiphase Flow in Heterogeneous Sandstones"
   },
   {
    "group": 10,
-   "name": "A modeling approach reveals differences in evapotranspiration and its\n"
+   "name": "Shale Gas Well, Hydraulic Fracturing, and Formation Data to Support\n"
   },
   {
    "group": 8,
-   "name": "Interannual variability of evapotranspiration and vegetation\n"
+   "name": "A Semianalytical Model for Pumping Tests in Finite Heterogeneous\n"
   },
   {
    "group": 2,
-   "name": "Many- objective reservoir policy identification and refinement to reduce\n"
+   "name": "Comment on ``Base Flow Recession from Unsaturated-Saturated Porous Media\n"
   },
   {
    "group": 4,
-   "name": "How useful are complex flood damage models?"
+   "name": "Reply to Comment by Roques et al. on ``Base Flow Recession from\n"
   },
   {
    "group": 6,
-   "name": "A vulnerability driven approach to identify adverse climate and land use\n"
+   "name": "Discrete Regularization for Calibration of Geologic Facies Against\n"
   },
   {
    "group": 22,
-   "name": "Sensitivity of summer stream temperatures to climate variability in the\n"
+   "name": "Canopy Spectral Reflectance as a Predictor of Soil Water Potential in\n"
   },
   {
    "group": 0,
-   "name": "Development of the Global Width Database for Large Rivers"
+   "name": "Effects of Geographic Diversification on Risk Pooling to Mitigate\n"
   },
   {
    "group": 22,
-   "name": "Linking climate projections to performance: A yield- based decision\n"
+   "name": "Exploring the Influence of Smallholders' Perceptions Regarding Water\n"
   },
   {
    "group": 22,
-   "name": "Heat transport in hyporheic zones due to bedforms: An experimental study"
+   "name": "An Extended Trajectory Mechanics Approach for Calculating the Path of a\n"
   },
   {
    "group": 8,
-   "name": "A machine learning approach for the prediction of settling velocity"
+   "name": "A Framework for Exploring Joint Effects of Conditional Factors on\n"
   },
   {
    "group": 13,
-   "name": "Image processing of multiphase images obtained via X- ray\n"
+   "name": "The Influential Role of Sociocultural Feedbacks on Community-Managed\n"
   },
   {
    "group": 6,
-   "name": "Species differences in the seasonality of evergreen tree transpiration\n"
+   "name": "Approximate Solutions for Ideal Dam-Break Sediment-Laden Flows on\n"
   },
   {
    "group": 20,
-   "name": "Sensitivity of watershed attributes to spatial resolution and\n"
+   "name": "Analysis of Tide and Offshore Storm-Induced Water Table Fluctuations for\n"
   },
   {
    "group": 18,
-   "name": "A risk-based approach to flood management decisions in a nonstationary\n"
+   "name": "Salt Precipitation in Ultratight Porous Media and Its Impact on Pore\n"
   },
   {
    "group": 1,
-   "name": "Groundwater and surface water flow to the Merced River, Yosemite Valley,\n"
+   "name": "Plant Osmoregulation as an Emergent Water-Saving Adaptation"
   },
   {
    "group": 1,
-   "name": "Patterns of regional hydroclimatic shifts: An analysis of changing\n"
+   "name": "A Model for Mass Transport Across the Sediment-Water Interface"
   },
   {
    "group": 15,
-   "name": "A stochastic model of streamflow for urbanized basins"
+   "name": "Stochastic Scenario Evaluation in Evolutionary Algorithms Used for\n"
   },
   {
    "group": 8,
-   "name": "Nutrient dynamics in an oligotrophic arctic stream monitored in situ by\n"
+   "name": "Optimization of Large-Scale Daily Hydrothermal System Operations With\n"
   },
   {
    "group": 7,
-   "name": "Modeling dependence between extreme rainfall and storm surge to estimate\n"
+   "name": "Intercomparison and Uncertainty Assessment of Nine Evapotranspiration\n"
   },
   {
    "group": 2,
-   "name": "Water resources planning under climate change: Assessing the robustness\n"
+   "name": "Using Tidal Fluctuation-Induced Dynamics of Radium Isotopes (Ra-224,\n"
   },
   {
    "group": 2,
-   "name": "How well do general circulation models represent lowfrequency rainfall\n"
+   "name": "Conditioning a Hydrologic Model Using Patterns of Remotely Sensed Land\n"
   },
   {
    "group": 9,
-   "name": "Stochastic convective rain-field simulation using a high-resolution\n"
+   "name": "The Role of Narratives in Sociohydrological Models of Flood Behaviors"
   },
   {
    "group": 0,
-   "name": "Time-lapse borehole radar for monitoring rainfall infiltration through\n"
+   "name": "The Influence of Syndepositional Macropores on the Hydraulic Integrity\n"
   },
   {
    "group": 15,
-   "name": "A new method for verification of delineated channel networks"
+   "name": "Identifying and Modeling Dynamic Preference Evolution in Multipurpose\n"
   },
   {
    "group": 6,
-   "name": "Accurate vertical profiles of turbulent flow in z-layer models"
+   "name": "Nernst-Planck-based Description of Transport, Coulombic Interactions,\n"
   },
   {
    "group": 8,
-   "name": "The importance of observed gradients of air temperature and\n"
+   "name": "Hydrological Storage Length Scales Represented by Remote Sensing\n"
   },
   {
    "group": 6,
-   "name": "Universal scaling of gas diffusion in porous media"
+   "name": "Uncertainty Assessment of Synthetic Design Hydrographs for Gauged and\n"
   },
   {
    "group": 2,
-   "name": "Assessing groundwater policy with coupled economic- groundwater\n"
+   "name": "Nutrient Fluxes From Profundal Sediment of Ultra-Oligotrophic Lake\n"
   },
   {
    "group": 10,
-   "name": "A statistical approach to estimating evapotranspiration from diurnal\n"
+   "name": "Lateral, Vertical, and Longitudinal Source Area Connectivity Drive\n"
   },
   {
    "group": 7,
-   "name": "Finite volume integrated surface- subsurface flow modeling on\n"
+   "name": "The Role of Frozen Soil in Groundwater Discharge Predictions for Warming\n"
   },
   {
    "group": 17,
-   "name": "Stochastic simulation of intermittent rainfall using the concept of\n"
+   "name": "A Reduced-Order Successive Linear Estimator for Geostatistical Inversion\n"
   },
   {
    "group": 7,
-   "name": "Comparison of joint versus postprocessor approaches for hydrological\n"
+   "name": "A Primer for Model Selection: The Decisive Role of Model Complexity"
   },
   {
    "group": 15,
-   "name": "Is the Dupuit assumption suitable for predicting the groundwater seepage\n"
+   "name": "Turbulent Kinetic Energy in Submerged Model Canopies Under Oscillatory\n"
   },
   {
    "group": 16,
-   "name": "Straight thinking about groundwater recession"
+   "name": "Calibrating the Spatiotemporal Root Density Distribution for Macroscopic\n"
   },
   {
    "group": 4,
-   "name": "Decadal surface water quality trends under variable climate, land use,\n"
+   "name": "The State of US Urban Water: Data and the Energy-Water Nexus"
   },
   {
    "group": 19,
-   "name": "Constraining a compositional flow model with flow- chemical data using\n"
+   "name": "Using High-Resolution Data to Assess Land Use Impact on Nitrate Dynamics\n"
   },
   {
    "group": 6,
-   "name": "A streamline splitting pore-network approach for computationally\n"
+   "name": "Soil and Atmospheric Controls on the Land Surface Energy Balance: A\n"
   },
   {
    "group": 8,
-   "name": "Potential of a low-cost sensor network to understand the spatial and\n"
+   "name": "Identification of Flood Reactivity Regions via the Functional Clustering\n"
   },
   {
    "group": 8,
-   "name": "Characterization of groundwater and surface water mixing in a\n"
+   "name": "Turbulent and Laminar Flow in Karst Conduits Under Unsteady Flow\n"
   },
   {
    "group": 15,
-   "name": "Assessing mechanical vulnerability in water distribution networks under\n"
+   "name": "Geomorphic Controls on Floodplain Soil Organic Carbon in the Yukon\n"
   },
   {
    "group": 22,
-   "name": "Feedbacks between managed irrigation and water availability: Diagnosing\n"
+   "name": "Time-Variable Transit Time Distributions in the Hyporheic Zone of a\n"
   },
   {
    "group": 2,
-   "name": "Predictability of tracer dilution in large open channel flows:\n"
+   "name": "Effects of Unsaturated Flow on Hillslope Recession Characteristics"
   },
   {
    "group": 7,
-   "name": "Estimating the human contribution to groundwater depletion in the Middle\n"
+   "name": "Spatial and Temporal Dynamics of Dissolved Oxygen Concentrations and\n"
   },
   {
    "group": 0,
-   "name": "Real-time global flood estimation using satellite-based precipitation\n"
+   "name": "Improving Robustness of Hydrologic Ensemble Predictions Through\n"
   },
   {
    "group": 2,
-   "name": "Adsorption and capillary condensation in porous media as a function of\n"
+   "name": "Reconnecting Stochastic Methods With Hydrogeological Applications: A\n"
   },
   {
    "group": 23,
-   "name": "LiDAR-derived snowpack data sets from mixed conifer forests across the\n"
+   "name": "Exploring the Dynamics of Transit Times and Subsurface Mixing in a Small\n"
   },
   {
    "group": 6,
-   "name": "Comment on ``A paradigm shift in understanding and quantifying the\n"
+   "name": "Discharge Estimation in Ungauged Basins Through Variational Data\n"
   },
   {
    "group": 7,
-   "name": "Reply to comment by Bathurst on ``A paradigm shift in understanding and\n"
+   "name": "Predicting Hydrologic Function With Aquatic Gene Fragments"
   },
   {
    "group": 1,
-   "name": "Comment on ``A paradigm shift in understanding and quantifying the\n"
+   "name": "Predictability and Quantification of Complex Groundwater Table Dynamics\n"
   },
   {
    "group": 6,
-   "name": "Reply to comment by Birkinshaw on ``A paradigm shift in understanding\n"
+   "name": "Expanding the ``Active Layer{''}: Discussion of Church and Haschenburger\n"
   },
   {
    "group": 2,
-   "name": "Comment on ``High-dimensional posterior exploration of hydrologic models\n"
+   "name": "Modeling Subsurface Hydrology in Floodplains"
   },
   {
    "group": 10,
-   "name": "Reply to comment by Chu et al. on ``High-dimensional posterior\n"
+   "name": "Effect of Water Surface Salinity on Evaporation: The Case of a Diluted\n"
   },
   {
    "group": 9,
-   "name": "Measuring miscible fluid displacement in porous media with magnetic\n"
+   "name": "Spatiotemporal Responses of Groundwater Flow and Aquifer-River Exchanges\n"
   },
   {
    "group": 6,
-   "name": "Impact of losing and gaining streamflow conditions on hyporheic exchange\n"
+   "name": "Lakefront Property Owners' Willingness to Accept Easements for\n"
   },
   {
    "group": 1,
-   "name": "The value of satellite- derived snow cover images for calibrating a\n"
+   "name": "Implementing Dynamic Root Optimization in Noah-MP for Simulating\n"
   },
   {
    "group": 4,
-   "name": "Nonparametric estimation of groundwater residence time distributions:\n"
+   "name": "Spatial Patterns of Development Drive Water Use"
   },
   {
    "group": 21,
-   "name": "Heat flux modifications related to climate-induced warming of large\n"
+   "name": "Assessment of CO2 Storage Potential in Naturally Fractured Reservoirs\n"
   },
   {
    "group": 8,
-   "name": "Satellite-based hybrid drought monitoring tool for prediction of\n"
+   "name": "Remote Detection of Saline Intrusion in a Coastal Aquifer Using Borehole\n"
   },
   {
    "group": 2,
-   "name": "Laboratory study of gravel-bed cluster formation and disintegration"
+   "name": "An Iterative Local Updating Ensemble Smoother for Estimation and\n"
   },
   {
    "group": 8,
-   "name": "Dynamic streambed fluxes during rainfall- runoff events"
+   "name": "Quantifying Changes in Future Intensity-Duration-Frequency Curves Using\n"
   },
   {
    "group": 7,
-   "name": "Carbon storage in mountainous headwater streams: The role of old-growth\n"
+   "name": "Spatial Variability of Soil Moisture and the Scale Issue: A\n"
   },
   {
    "group": 6,
-   "name": "Exploring the link between meteorological drought and streamflow:\n"
+   "name": "Drivers of Variability in Public-Supply Water Use Across the Contiguous\n"
   },
   {
    "group": 8,
-   "name": "Probabilistic prediction of cyanobacteria abundance in a Korean\n"
+   "name": "Distribution of Large Wood Within River Corridors in Relation to Flow\n"
   },
   {
    "group": 7,
-   "name": "Assessing variability of evapotranspiration over the Ganga river basin\n"
+   "name": "Fluid Topology in Pore Scale Two-Phase Flow Imaged by Synchrotron X-ray\n"
   },
   {
    "group": 0,
-   "name": "Assessing the impact of model spin-up on surface water-groundwater\n"
+   "name": "Impact of Stage Measurement Errors on Streamflow Uncertainty"
   },
   {
    "group": 6,
-   "name": "Watershed-scale modeling of streamflow change in incised montane meadows"
+   "name": "Permeability Sensitivity Functions and Rapid Simulation of\n"
   },
   {
    "group": 3,
-   "name": "Three-dimensional imaging of subsurface structural patterns using\n"
+   "name": "Testing the Hydrological Coherence of High-Resolution Gridded\n"
   },
   {
    "group": 6,
-   "name": "Chemical osmosis in two-phase flow and salinity-dependent capillary\n"
+   "name": "A Linear Dynamical Systems Approach to Streamflow Reconstruction Reveals\n"
   },
   {
    "group": 6,
-   "name": "Characteristic length scales and time-averaged transport velocities of\n"
+   "name": "Application of a Line Laser Scanner for Bed Form Tracking in a\n"
   },
   {
    "group": 2,
-   "name": "A field and modeling study of nonlinear storage-discharge dynamics for\n"
+   "name": "Improving the Efficiency of 3-D Hydrogeological Mixers: Dilution\n"
   },
   {
    "group": 2,
-   "name": "Soil moisture mapping in a semiarid region, based on ASAR/Wide Swath\n"
+   "name": "Impacts of Near-Term Climate Change on Irrigation Demands and Crop\n"
   },
   {
    "group": 15,
-   "name": "Analog-based meandering channel simulation"
+   "name": "Pore-Scale Hydrodynamics in a Progressively Bioclogged Three-Dimensional\n"
   },
   {
    "group": 6,
-   "name": "Long-term kinetics of uranyl desorption from sediments under advective\n"
+   "name": "Soil Texture Often Exerts a Stronger Influence Than Precipitation on\n"
   },
   {
    "group": 6,
-   "name": "Non-Fickian transport through two-dimensional rough fractures:\n"
+   "name": "Channel-Island Connectivity Affects Water Exposure Time Distributions in\n"
   },
   {
    "group": 0,
-   "name": "Hydraulic structures subject to bivariate hydrological loads: Return\n"
+   "name": "Modeling Spatial Dependence of Rainfall Extremes Across Multiple\n"
   },
   {
    "group": 11,
-   "name": "Optimal reproduction in salmon spawning substrates linked to grain size\n"
+   "name": "A Novel Approach to Model Earth Fissure Caused by Extensive Aquifer\n"
   },
   {
    "group": 2,
-   "name": "Continental-scale relationship between bankfull width and drainage area\n"
+   "name": "High-Resolution Water Footprints of Production of the United States"
   },
   {
    "group": 2,
-   "name": "Links between flood frequency and annual water balance behaviors: A\n"
+   "name": "The Value of Hydrograph Partitioning Curves for Calibrating Hydrological\n"
   },
   {
    "group": 1,
-   "name": "Electrical imaging and fluid modeling of convective fingering in a\n"
+   "name": "A Functional Approach to Zooplankton Communities in Mountain Lakes\n"
   },
   {
    "group": 24,
-   "name": "Storage dynamics in hydropedological units control hillslope\n"
+   "name": "Randomized Truncated SVD Levenberg-Marquardt Approach to Geothermal\n"
   },
   {
    "group": 4,
-   "name": "Flow separation and shear stress over angle-of-repose bed forms: A\n"
+   "name": "Quantifying Surface Water, Porewater, and Groundwater Interactions Using\n"
   },
   {
    "group": 6,
-   "name": "On the nonuniqueness of sediment yield at the catchment scale: The\n"
+   "name": "An Evaluation of Nitrate, fDOM, and Turbidity Sensors in New Hampshire\n"
   },
   {
    "group": 6,
-   "name": "Modeling and analysis of evaporation processes from porous media on the\n"
+   "name": "Effective Hydraulic Conductivity of Three-Dimensional Heterogeneous\n"
   },
   {
    "group": 10,
-   "name": "Uncertainty assessment of hydrological models with fuzzy extension\n"
+   "name": "Estimating Surface/Subsurface Sediment Mixing in Karst Settings Using\n"
   },
   {
    "group": 15,
-   "name": "Bistable dynamics between forest removal and landslide occurrence"
+   "name": "Extending the Applicability of the Generalized Likelihood Function for\n"
   },
   {
    "group": 2,
-   "name": "Quantifying the predictive consequences of model error with linear\n"
+   "name": "Tuning Fractures With Dynamic Data"
   },
   {
    "group": 11,
-   "name": "Basin-scale performance of a semidistributed rainfall-runoff model for\n"
+   "name": "Water Resource Planning Under Future Climate and Socioeconomic\n"
   },
   {
    "group": 8,
-   "name": "Predicting hydrologic response through a hierarchical catchment\n"
+   "name": "A Computational Fluid-Dynamics Assessment of the Improved Performance of\n"
   },
   {
    "group": 11,
-   "name": "Apparent directional mass-transfer capacity coefficients in\n"
+   "name": "Addressing Spatial Dependence Bias in Climate Model Simulations-An\n"
   },
   {
    "group": 23,
-   "name": "A probabilistic sediment cascade model of sediment transfer in the\n"
+   "name": "Minimized Capillary End Effect During CO2 Displacement in 2-D Micromodel\n"
   },
   {
    "group": 0,
-   "name": "A new parameterization scheme for estimating surface energy fluxes with\n"
+   "name": "Upscaling the Coupled Water and Heat Transport in the Shallow Subsurface"
   },
   {
    "group": 12,
-   "name": "Stochastic modeling analysis of sequential first-order degradation\n"
+   "name": "On Lack of Robustness in Hydrological Model Development Due to Absence\n"
   },
   {
    "group": 6,
-   "name": "Systematic uncertainty reduction strategies for developing streamflow\n"
+   "name": "Next-Generation Intensity-Duration-Frequency Curves for Hydrologic\n"
   },
   {
    "group": 0,
-   "name": "Rainfall seasonality and an ecohydrological feedback offset the\n"
+   "name": "Soil Susceptibility to Macropore Flow Across a Desert-Oasis Ecotone of\n"
   },
   {
    "group": 2,
-   "name": "Incorporating dynamic root growth enhances the performance of Noah-MP at\n"
+   "name": "Contextualizing Wetlands Within a River Network to Assess Nitrate\n"
   },
   {
    "group": 7,
-   "name": "Physics-based preconditioners for flow in fractured porous media"
+   "name": "Assimilation of Spatially Sparse In Situ Soil Moisture Networks into a\n"
   },
   {
    "group": 15,
-   "name": "A method for implementing Dirichlet and third-type boundary conditions\n"
+   "name": "The T-TEL Method for Assessing Water, Sediment, and Chemical\n"
   },
   {
    "group": 1,
-   "name": "Comparison of Lake Ontario and St. Lawrence River hydrologic droughts\n"
+   "name": "Social Position Influencing the Water Perception Gap Between Local\n"
   },
   {
    "group": 0,
-   "name": "Chaotic advection and reaction during engineered injection and\n"
+   "name": "Multiphase Flow Characteristics of Heterogeneous Rocks From CO2 Storage\n"
   },
   {
    "group": 10,
-   "name": "Snowmelt timing alters shallow but not deep soil moisture in the Sierra\n"
+   "name": "High-Elevation Evapotranspiration Estimates During Drought: Using\n"
   },
   {
    "group": 15,
-   "name": "Connectivity of overland flow by drainage network expansion in a rain\n"
+   "name": "A Class of Exact Solutions of the Boussinesq Equation for Horizontal and\n"
   },
   {
    "group": 15,
-   "name": "Estimating seepage flux from ephemeral stream channels using surface\n"
+   "name": "Improved Nested Sampling and Surrogate-Enabled Comparison With Other\n"
   },
   {
    "group": 18,
-   "name": "Chemistry of groundwater discharge inferred from longitudinal river\n"
+   "name": "Bed Load Variability and Morphology of Gravel Bed Rivers Subject to\n"
   },
   {
    "group": 6,
-   "name": "Coupled hydrological and biogeochemical processes controlling\n"
+   "name": "Estimating Discharge in Low-Order Rivers With High-Resolution Aerial\n"
   },
   {
    "group": 3,
-   "name": "Flood frequency analysis using radar rainfall fields and stochastic\n"
+   "name": "Forecasting Hourly Water Demands With Seasonal Autoregressive Models for\n"
   },
   {
    "group": 0,
-   "name": "A hybrid-dimensional approach for an efficient numerical modeling of the\n"
+   "name": "Attribution of Large-Scale Climate Patterns to Seasonal Peak-Flow and\n"
   },
   {
    "group": 24,
-   "name": "The effect of saturation history on three-phase relative permeability:\n"
+   "name": "The Interactive Effect of Multiple Stressors on Crustacean Zooplankton\n"
   },
   {
    "group": 10,
-   "name": "Joint assimilation of piezometric heads and groundwater temperatures for\n"
+   "name": "Estimating Wetland Connectivity to Streams in the Prairie Pothole\n"
   },
   {
    "group": 10,
-   "name": "Detailed river stage mapping and head gradient analysis during meander\n"
+   "name": "Geochemical Processes During Managed Aquifer Recharge With Desalinated\n"
   },
   {
    "group": 6,
-   "name": "Improved understanding of bimolecular reactions in deceptively simple\n"
+   "name": "Effective Representation of River Geometry in Hydraulic Flood Forecast\n"
   },
   {
    "group": 0,
-   "name": "Urban recharge beneath low impact development and effects of climate\n"
+   "name": "Prerequisites for Accurate Monitoring of River Discharge Based on\n"
   },
   {
    "group": 14,
-   "name": "Hydrogeochemical and mineralogical effects of sustained CO2\n"
+   "name": "Numerical Simulation of Multiphase Flow in Nanoporous Organic Matter\n"
   },
   {
    "group": 24,
-   "name": "High-resolution temperature sensing in the Dead Sea using fiber optics"
+   "name": "Impact of Three-Phase Relative Permeability and Hysteresis Models on\n"
   },
   {
    "group": 7,
-   "name": "Mountain system monitoring at Senator Beck Basin, San Juan Mountains,\n"
+   "name": "Use of Flood Seasonality in Pooling-Group Formation and Quantile\n"
   },
   {
    "group": 24,
-   "name": "Estimation of land surface water and energy balance parameters using\n"
+   "name": "The Spatial and Temporal Variability of Meltwater Flow Paths: Insights\n"
   },
   {
    "group": 15,
-   "name": "River export of nutrients and organic matter from the North Slope of\n"
+   "name": "Denitrification Temperature Dependence in Remote, Cold, and N-Poor Lake\n"
   },
   {
    "group": 15,
-   "name": "Preferential flow as a potential mechanism for fire-induced increase in\n"
+   "name": "Limitless Analytic Elements"
   },
   {
    "group": 17,
-   "name": "Notice of retraction: `'Reliable probabilistic forecasts from an\n"
+   "name": "Snow Sublimation in Mountain Environments and Its Sensitivity to Forest\n"
   },
   {
    "group": 13,
-   "name": "Learning from the scientific legacies of W. Brutsaert and J.-Y. Parlange"
+   "name": "Estimating the Natural Flow Regime of Rivers With Long-Standing\n"
   },
   {
    "group": 21,
-   "name": "Assessment of controlling processes for field-scale uranium reactive\n"
+   "name": "Snowmelt Timing as a Determinant of Lake Inflow Mixing"
   },
   {
    "group": 6,
-   "name": "The role of the ENSO cycle in the modulation of moisture transport from\n"
+   "name": "Data-Driven Model Uncertainty Estimation in Hydrologic Data Assimilation"
   },
   {
    "group": 22,
-   "name": "Comparison of simulated water, nitrate, and bromide transport using a\n"
+   "name": "The Effect of Wettability Heterogeneity on Relative Permeability of\n"
   },
   {
    "group": 3,
-   "name": "Uncertainty in evapotranspiration from land surface modeling, remote\n"
+   "name": "Uncertainty Quantification in Discrete Fracture Network Models:\n"
   },
   {
    "group": 16,
-   "name": "Positive or negative correlation between actual and potential\n"
+   "name": "Hydrometric Data Rescue in the Parana River Basin"
   },
   {
    "group": 22,
-   "name": "2H isotopic flux partitioning of evapotranspiration over a grass field\n"
+   "name": "On the Representation of the Porosity-Pressure Relationship in General\n"
   },
   {
    "group": 23,
-   "name": "Origins of anomalous transport in heterogeneous media: Structural and\n"
+   "name": "Derivation of an Explicit Form of the Percolation-Based Effective-Medium\n"
   },
   {
    "group": 2,
-   "name": "Near-bed and surface flow division patterns in experimental river\n"
+   "name": "Sensitivity Analysis of Hydraulic Head to Locations of Model Boundaries"
   },
   {
    "group": 9,
-   "name": "Surface-subsurface model intercomparison: A first set of benchmark\n"
+   "name": "Improved Characterization of Groundwater Flow in Heterogeneous Aquifers\n"
   },
   {
    "group": 23,
-   "name": "Critical Reynolds number for nonlinear flow through rough-walled\n"
+   "name": "Trade Openness and Domestic Water Use"
   },
   {
    "group": 17,
-   "name": "Understanding process dynamics at aquifer-surface water interfaces: An\n"
+   "name": "Sediment Transport of Fine Sand to Fine Gravel on Transverse Bed Slopes\n"
   },
   {
    "group": 6,
-   "name": "Drivers of the virtual water trade"
+   "name": "Global Sensitivity of Simulated Water Balance Indicators Under Future\n"
   },
   {
    "group": 23,
-   "name": "Motivational indictors predicting the engagement, frequency and adequacy\n"
+   "name": "Diurnal Course of Evaporation From the Dead Sea in Summer: A Distinct\n"
   },
   {
    "group": 1,
-   "name": "Predicting natural channel patterns based on landscape and geomorphic\n"
+   "name": "Hot Spots and Hot Moments of Nitrogen in a Riparian Corridor"
   },
   {
    "group": 10,
-   "name": "A new model for coupled multicomponent NAPL dissolution and\n"
+   "name": "Modeling Bimolecular Reactive Transport With Mixing-Limitation: Theory\n"
   },
   {
    "group": 0,
-   "name": "Hydraulic characterization of aquifers by thermal response testing:\n"
+   "name": "Investigating Runoff Efficiency in Upper Colorado River Streamflow Over\n"
   },
   {
    "group": 23,
-   "name": "Diel flow pulses drive particulate organic matter transport from\n"
+   "name": "Global Anthropogenic Phosphorus Loads to Freshwater and Associated Grey\n"
   },
   {
    "group": 23,
-   "name": "Seasonal precipitation patterns along pathways of South American\n"
+   "name": "Flow Resistance Interactions on Hillslopes With Heterogeneous\n"
   },
   {
    "group": 2,
-   "name": "Using a bias aware EnKF to account for unresolved structure in an\n"
+   "name": "Concentration-Discharge Responses to Storm Events in Coastal California\n"
   },
   {
    "group": 6,
-   "name": "Ecohydrological effects of management on subalpine grasslands: From\n"
+   "name": "Large-Scale Experiments in Microbially Induced Calcite Precipitation\n"
   },
   {
    "group": 22,
-   "name": "Groundwater flow and salt transport in a subterranean estuary driven by\n"
+   "name": "An Analytical Solution for the Impact of Vegetation Changes on\n"
   },
   {
    "group": 15,
-   "name": "Probabilistic postprocessing models for flow forecasts for a system of\n"
+   "name": "Accuracy of Snow Water Equivalent Estimated From GPS Vertical\n"
   },
   {
    "group": 0,
-   "name": "Modeling the flow resistance of woody vegetation using physically based\n"
+   "name": "Pore-Scale Determination of Gas Relative Permeability in Hydrate-Bearing\n"
   },
   {
    "group": 15,
-   "name": "Groundwater remediation using the information gap decision theory"
+   "name": "A Binomial Modeling Approach for Upscaling Colloid Transport Under\n"
   },
   {
    "group": 12,
-   "name": "A hidden seasonal switching model for multisite daily rainfall"
+   "name": "A Hybrid Multiscale Model of Miscible Reactive Fronts"
   },
   {
    "group": 8,
-   "name": "Estimation of evapotranspiration using diurnal groundwater level\n"
+   "name": "Interactions Between Stratigraphy and Interfacial Properties on Flow and\n"
   },
   {
    "group": 8,
-   "name": "Observations of a two-layer soil moisture influence on surface energy\n"
+   "name": "Flow-Signature Analysis of Water Consumption in Nonresidential Building\n"
   },
   {
    "group": 2,
-   "name": "Sensitivity analysis of SCHADEX extreme flood estimations to observed\n"
+   "name": "Variability of Bed Load Transport During Six Summers of Continuous\n"
   },
   {
    "group": 4,
-   "name": "The Auto-Tuned Land Data Assimilation System ( ATLAS)"
+   "name": "Stochastic Periodic Autoregressive to Anything (SPARTA): Modeling and\n"
   },
   {
    "group": 7,
-   "name": "Comparison of prognostic and diagnostic surface flux modeling approaches\n"
+   "name": "Effects of Heterogeneity, Connectivity, and Density Variations on Mixing\n"
   },
   {
    "group": 15,
-   "name": "Modeling point velocity and depth statistical distributions in steep\n"
+   "name": "Combined Flow Abstraction and Climate Change Impacts on an Aggrading\n"
   },
   {
    "group": 15,
-   "name": "Pore-space alteration induced by brine acidification in subsurface\n"
+   "name": "A Bayesian Hierarchical Approach to Multivariate Nonstationary\n"
   },
   {
    "group": 0,
-   "name": "Assessing invertebrate assemblages in the subsurface zone of stream\n"
+   "name": "Direct Breakthrough Curve Prediction From Statistics of Heterogeneous\n"
   },
   {
    "group": 0,
-   "name": "Lithologic influences on groundwater recharge through incised glacial\n"
+   "name": "Regional Variability of Nitrate Fluxes in the Unsaturated Zone and\n"
   },
   {
    "group": 3,
-   "name": "Transverse spatiotemporal variability of lowland river properties and\n"
+   "name": "Deposition of Suspended Clay to Open and Sand-Filled Framework Gravel\n"
   },
   {
    "group": 15,
-   "name": "Quantification of surface energy fluxes from a small water body using\n"
+   "name": "Training-Image Based Geostatistical Inversion Using a Spatial Generative\n"
   },
   {
    "group": 15,
-   "name": "Downstream changes in DOC: Inferring contributions in the face of model\n"
+   "name": "Three-Dimensional Effects of Artificial Mixing in a Shallow\n"
   },
   {
    "group": 17,
-   "name": "Analytical basis for determining slope lines in grid digital elevation\n"
+   "name": "Accounting for the Decreasing Reaction Potential of Heterogeneous\n"
   },
   {
    "group": 7,
-   "name": "Stochastic downscaling of precipitation to high-resolution scenarios in\n"
+   "name": "Socio-Hydrology of Channel Flows in Complex River Basins: Rivers,\n"
   },
   {
    "group": 8,
-   "name": "Stochastic downscaling of climate model precipitation outputs in\n"
+   "name": "Uncertainty Quantification and Global Sensitivity Analysis of Subsurface\n"
   },
   {
    "group": 23,
-   "name": "A copula- based precipitation forecasting model: Investigating the\n"
+   "name": "Modeling of Future Changes in Seasonal Snowpack and Impacts on Summer\n"
   },
   {
    "group": 24,
-   "name": "Modeling the relationship between climate oscillations and drought by a\n"
+   "name": "Unraveling the Hydrology of the Glacierized Kaidu Basin by Integrating\n"
   },
   {
    "group": 0,
-   "name": "An information theoretic alternative to model a natural system using\n"
+   "name": "Analytical Solution for Interface Flow to a Sink With an Upconed Saline\n"
   },
   {
    "group": 24,
-   "name": "A comparison between simulation and experiment for hysteretic phenomena\n"
+   "name": "Comment on ``An Efficient and Stable Hydrodynamic Model With Novel\n"
   },
   {
    "group": 6,
-   "name": "Calibrating a large-extent high-resolution coupled groundwater-land\n"
-  },
-  {
-   "group": 15,
-   "name": "Parameter estimation of a physically based land surface hydrologic model\n"
-  },
-  {
-   "group": 1,
-   "name": "An estimate of energy dissipation due to soil-moisture hysteresis"
-  },
-  {
-   "group": 6,
-   "name": "Analytical solution for capture and catchment zones of a well located on\n"
-  },
-  {
-   "group": 13,
-   "name": "Comment on ``Groundwater depletion in the Middle East from GRACE with\n"
-  },
-  {
-   "group": 6,
-   "name": "Comment on ``Cumulative biophysical impact of small and large hydropower\n"
-  },
-  {
-   "group": 8,
-   "name": "Reply to comment by Henriette I. Jager and Ryan A. McManamay on\n"
-  },
-  {
-   "group": 6,
-   "name": "Hydrodynamic coupling in microbially mediated fracture mineralization:\n"
-  },
-  {
-   "group": 8,
-   "name": "A modeling approach to represent hysteresis in capillary\n"
-  },
-  {
-   "group": 11,
-   "name": "Fast iterative implementation of large-scale nonlinear geostatistical\n"
-  },
-  {
-   "group": 9,
-   "name": "Evaluating the performance of parallel subsurface simulators: An\n"
-  },
-  {
-   "group": 24,
-   "name": "Quantifying streambed deposition and scour from stream and hyporheic\n"
-  },
-  {
-   "group": 22,
-   "name": "Long-term snow distribution observations in a mountain catchment:\n"
-  },
-  {
-   "group": 22,
-   "name": "Dynamic hyporheic exchange at intermediate timescales: Testing the\n"
-  },
-  {
-   "group": 9,
-   "name": "Rainfall extremes: Toward reconciliation after the battle of\n"
-  },
-  {
-   "group": 17,
-   "name": "Distributed Evaluation of Local Sensitivity Analysis ( DELSA), with\n"
-  },
-  {
-   "group": 13,
-   "name": "Flooding dynamics on the lower Amazon floodplain: 1. Hydraulic controls\n"
-  },
-  {
-   "group": 22,
-   "name": "Flooding dynamics on the lower Amazon floodplain: 2. Seasonal and\n"
-  },
-  {
-   "group": 10,
-   "name": "Study of the effect of wind speed on evaporation from soil through\n"
-  },
-  {
-   "group": 6,
-   "name": "Flow in horizontally anisotropic multilayered aquifer systems with leaky\n"
-  },
-  {
-   "group": 15,
-   "name": "Calibrating hydrologic models in flow-corrected time"
+   "name": "Reply to Comment by Lu et al. on ``An Efficient and Stable Hydrodynamic\n"
   }
  ]
 }
